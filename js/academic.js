@@ -88,6 +88,141 @@ $('#facultyCSE' ).on( 'click', function () {
 	$.prompt(facultyCSE);
 });
 
+$('#facultyECE' ).on( 'click', function () {
+	var facultyCSE = {
+		faccse1: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/Dr_OP_Verma_CSE.jpg" alt="" /> </div><!--icon box top --> <h4>Dr. O. P. Verma</h4> <h5>Professor, <br> Principal <br> PhD (DU)<br>M, Tech (IIT Delhi)<br> B. E. (MNIT Jaipur) </h5> <p>Specialiazation: Image Processing, Soft Computing, Machine learning, Evolutionary Computing.</p> <a href="mailto:opverma@dce.ac.in" target="_blank">opverma@dce.ac.in	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Cancel: false, Next: true },
+			focus: 1,
+			submit:function(e,v,m,f){
+				if(v){
+					e.preventDefault();
+					$.prompt.goToState('faccse2');
+					return false;
+				}
+				$.prompt.close();
+			}
+		},
+		faccse2: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/SUNITA_CSE.png" alt="" /> </div><!--icon box top --> <h4>Ms. Sunita Kumari</h4> <h5>Assistant Professor<br> HOD (CSE) <br> M.Tech.(MDU Rohtak)<br>B.Tech.(MDU Rohtak) NET (2009)</h5> <p>Specialiazation: Operating Systems</p> <a href="mailto:mailto:sunita2009@gmail.com" target="_blank">sunita2009@gmail.com	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse1');
+				else if(v==1)
+					$.prompt.goToState('faccse3');
+			}
+		},
+		faccse3: {
+			html:'<h3>Other Curriculum</h3><p><ul><li>Advanced Computer Architecture</li><li>Compiler Construction</li><li>Mobile Computing</li><li>VLSI Design</li><li>Digital Image Processing</li><li>Microprocessor Systems</li><li>Digital Signal Processing</li><li>Data Warehousing & Data Mining</li><li>Digital Circuits & Systems</li><li>Java Programming and Website Design</li><li>Computer Architecture</li><li>Linux and X-Windows Programming</li><li>Software Engineering</li><li>Algorithm Analysis & Design</li><li>Object Oriented Programming using C++</li><li>Communication Systems</li><li>Computer Graphics</li><li>Operating Systems</li><li>Analog Electronics</li><li>Circuits and Systems</li><li>And various other subjects.</li></ul></p>',
+			buttons: { Back: -1, Exit: 0 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse2');
+			}
+		}
+	};
+	$.prompt(facultyCSE);
+});
+
+$('#facultyMAE' ).on( 'click', function () {
+	var facultyCSE = {
+		faccse1: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/Dr_OP_Verma_CSE.jpg" alt="" /> </div><!--icon box top --> <h4>Dr. O. P. Verma</h4> <h5>Professor, <br> Principal <br> PhD (DU)<br>M, Tech (IIT Delhi)<br> B. E. (MNIT Jaipur) </h5> <p>Specialiazation: Image Processing, Soft Computing, Machine learning, Evolutionary Computing.</p> <a href="mailto:opverma@dce.ac.in" target="_blank">opverma@dce.ac.in	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Cancel: false, Next: true },
+			focus: 1,
+			submit:function(e,v,m,f){
+				if(v){
+					e.preventDefault();
+					$.prompt.goToState('faccse2');
+					return false;
+				}
+				$.prompt.close();
+			}
+		},
+		faccse2: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/SUNITA_CSE.png" alt="" /> </div><!--icon box top --> <h4>Ms. Sunita Kumari</h4> <h5>Assistant Professor<br> HOD (CSE) <br> M.Tech.(MDU Rohtak)<br>B.Tech.(MDU Rohtak) NET (2009)</h5> <p>Specialiazation: Operating Systems</p> <a href="mailto:mailto:sunita2009@gmail.com" target="_blank">sunita2009@gmail.com	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse1');
+				else if(v==1)
+					$.prompt.goToState('faccse3');
+			}
+		},
+		faccse3: {
+			html:'<h3>Other Curriculum</h3><p><ul><li>Advanced Computer Architecture</li><li>Compiler Construction</li><li>Mobile Computing</li><li>VLSI Design</li><li>Digital Image Processing</li><li>Microprocessor Systems</li><li>Digital Signal Processing</li><li>Data Warehousing & Data Mining</li><li>Digital Circuits & Systems</li><li>Java Programming and Website Design</li><li>Computer Architecture</li><li>Linux and X-Windows Programming</li><li>Software Engineering</li><li>Algorithm Analysis & Design</li><li>Object Oriented Programming using C++</li><li>Communication Systems</li><li>Computer Graphics</li><li>Operating Systems</li><li>Analog Electronics</li><li>Circuits and Systems</li><li>And various other subjects.</li></ul></p>',
+			buttons: { Back: -1, Exit: 0 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse2');
+			}
+		}
+	};
+	$.prompt(facultyCSE);
+});
+
+$('#facultyHAS' ).on( 'click', function () {
+	var facultyCSE = {
+		faccse1: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/Dr_OP_Verma_CSE.jpg" alt="" /> </div><!--icon box top --> <h4>Dr. O. P. Verma</h4> <h5>Professor, <br> Principal <br> PhD (DU)<br>M, Tech (IIT Delhi)<br> B. E. (MNIT Jaipur) </h5> <p>Specialiazation: Image Processing, Soft Computing, Machine learning, Evolutionary Computing.</p> <a href="mailto:opverma@dce.ac.in" target="_blank">opverma@dce.ac.in	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Cancel: false, Next: true },
+			focus: 1,
+			submit:function(e,v,m,f){
+				if(v){
+					e.preventDefault();
+					$.prompt.goToState('faccse2');
+					return false;
+				}
+				$.prompt.close();
+			}
+		},
+		faccse2: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/SUNITA_CSE.png" alt="" /> </div><!--icon box top --> <h4>Ms. Sunita Kumari</h4> <h5>Assistant Professor<br> HOD (CSE) <br> M.Tech.(MDU Rohtak)<br>B.Tech.(MDU Rohtak) NET (2009)</h5> <p>Specialiazation: Operating Systems</p> <a href="mailto:mailto:sunita2009@gmail.com" target="_blank">sunita2009@gmail.com	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse1');
+				else if(v==1)
+					$.prompt.goToState('faccse3');
+			}
+		},
+		faccse3: {
+			html:'<h3>Other Curriculum</h3><p><ul><li>Advanced Computer Architecture</li><li>Compiler Construction</li><li>Mobile Computing</li><li>VLSI Design</li><li>Digital Image Processing</li><li>Microprocessor Systems</li><li>Digital Signal Processing</li><li>Data Warehousing & Data Mining</li><li>Digital Circuits & Systems</li><li>Java Programming and Website Design</li><li>Computer Architecture</li><li>Linux and X-Windows Programming</li><li>Software Engineering</li><li>Algorithm Analysis & Design</li><li>Object Oriented Programming using C++</li><li>Communication Systems</li><li>Computer Graphics</li><li>Operating Systems</li><li>Analog Electronics</li><li>Circuits and Systems</li><li>And various other subjects.</li></ul></p>',
+			buttons: { Back: -1, Exit: 0 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse2');
+			}
+		}
+	};
+	$.prompt(facultyCSE);
+});
+
 $('#labCSE' ).on( 'click', function () {
 	var labCSE = {
 		labcse1: {
@@ -266,7 +401,7 @@ $('#labECE' ).on( 'click', function () {
         else if(v==-1)
           $.prompt.goToState('labece7');
       }
-    },
+    }
   };
   $.prompt(labece);
 });
