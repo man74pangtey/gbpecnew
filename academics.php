@@ -64,9 +64,9 @@
 						<img src="assets/images/mae.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Mechincal And Automation Engineering (MAE)</h4> 
-					<p>The Department of Mechanical Engineering was established in 2007 with a vision to foster quality technical education in meeting the growing demand for technical man power in the industrial sector. </p> <p><a href="#departments"><em>Read More →</em></a></p> </div><!--grey box -->
-			</div><!--/span3-->
-			<div class="col-md-3">
+					<p>The Department of Mechanical Engineering was established in 2007 with a vision to foster quality technical education in meeting the growing demand for technical man power in the industrial sector. </p> 
+					<p>The department offers UG (B.Tech.) program in Mechanical and Automation Engineering. The presence of experienced and highly talented faculty has helped to establish a high reputation for the department in the academia and industry. </p> 
+					<p><a href="#departments"><em>Read More →</em></a></p> </div><!--grey box --> </div><!--/span3--> <div class="col-md-3">
 				<div class="grey-box-icon">
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/humanities.png" alt="" />
