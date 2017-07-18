@@ -41,7 +41,10 @@
 						<img src="assets/images/cse.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Computer Science Engineering (CSE)</h4>
-					<p>The department of CSE attracts the best students across the country. It offers state of art curriculum based on application and theoretical foundation of computers with the vision to provide excellence and relevance in teaching. It offers intensive exposure to latest technologies.</p>
+					<p>The department of Computer Science Engineering attracts the best students across the country. It offers broad under graduate
+                          curriculum based on application and theoretical foundation of computers with the vision to provide excellence and relevance
+                          in teaching. It offers intensive exposure to latest technologies including E-commerce, multimedia, data mining, advance
+                          computer architecture etc.</p>
  					<p><a href="#departments"><em>Read More →</em></a></p>
 				</div><!--grey box -->
 			</div><!--/span3-->
@@ -51,7 +54,7 @@
 						<img src="assets/images/ece.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Electronics & Communication Engineering (ECE)</h4>
-					<p>Since its inception in 2007, the objective of the department has been to become the front-runner in its core area of specialization. With a vision to excel in education and research, the department has taken the lead in the establishment of well equipped, comprehensive and exemplary laboratories.</p>
+					<p>Since its inception in 2007, the objective of the department has been to become the front-runner in its core area of specialization. With a vision to excel in education and research, the department has taken the lead in the establishment of well equipped, comprehensive and exemplary laboratories.  Upgradation of laboratories is done from time to time to keep track with the rapid changes in technology.</p>
 					<p><a href="#departments"><em>Read More →</em></a></p>
 				</div><!--grey box -->
 			</div><!--/span3-->
@@ -60,10 +63,8 @@
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/mae.png" alt="" />
 					</div><!--icon box top -->
-					<h4>Mechincal And Automation Engineering (MAE)</h4>
-					<p>The Department of Mechanical Engineering was established in 2007 with a vision to foster quality technical education in meeting the growing demand for technical man power in the industrial sector. The department offers UG (B.Tech.) program in Mechanical and Automation Engineering.</p>
-					<p><a href="#departments"><em>Read More →</em></a></p>
-				</div><!--grey box -->
+					<h4>Mechincal And Automation Engineering (MAE)</h4> 
+					<p>The Department of Mechanical Engineering was established in 2007 with a vision to foster quality technical education in meeting the growing demand for technical man power in the industrial sector. </p> <p><a href="#departments"><em>Read More →</em></a></p> </div><!--grey box -->
 			</div><!--/span3-->
 			<div class="col-md-3">
 				<div class="grey-box-icon">
@@ -71,7 +72,7 @@
 						<img src="assets/images/humanities.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Humanities and Applied Sciences(HAS)</h4>
-					<p>The department of Humanities and Applied Sciences is one of the key departments in the Institution as it grooms the students in their first year of study. The department comprises of faculty from four streams including Chemistry, Physics, Mathematics and English (communication skills).</p>
+					<p> The department of Humanities and Applied Sciences is one of the key departments in the Institution as it grooms the students in their first year of study. The department comprises of faculty from four streams including Chemistry, Physics, Mathematics and English (communication skills).  The department comprises of highly qualified faculty members and technical staff and well equipped laboratories with advanced instruments. </p>
 						<p><a href="#departments"><em>Read More →</em></a></p>
 				</div><!--grey box -->
 			</div><!--/span3-->
