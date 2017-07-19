@@ -40,26 +40,6 @@
 
     <h1>Page Under Construction</h1>
 
-    <div class="container">
-        <h1>Pagination Demo</h1>
-        <table id="table"
-               data-toggle="table"
-               data-show-columns="true" 
-			   data-search="true" 
-			   data-show-toggle="true"
-               data-pagination="true"
-               data-url="data1.json"
-			   data-reorderable-columns="true">
-            <thead>
-            <tr>
-                <th data-field="id" data-sortable="true">ID</th>
-                <th data-field="name" data-sortable="true">Item Name</th>
-                <th data-field="price" data-sortable="true">Item Price</th>
-            </tr>
-            </thead>
-        </table>
-    </div>
-
  <footer id="footer">
  	<?php include("footer.php"); ?>	
  </footer>
