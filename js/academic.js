@@ -59,7 +59,7 @@ $('#facultyCSE' ).on( 'click', function () {
 			}
 		},
 		faccse2: {
-			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/SUNITA_CSE.png" alt="" /> </div><!--icon box top --> <h4>Ms. Sunita Kumari</h4> <h5>Assistant Professor<br> HOD (CSE) <br> M.Tech.(MDU Rohtak)<br>B.Tech.(MDU Rohtak) NET (2009)</h5> <p>Specialiazation: Operating Systems</p> <a href="mailto:mailto:sunita2009@gmail.com" target="_blank">sunita2009@gmail.com	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/SUNITA_CSE.png" alt="" /> </div><!--icon box top --> <h4>Ms. Sunita Kumari</h4> <h5>Assistant Professor<br> HOD (CSE) <br> M.Tech.(MDU Rohtak)<br>B.Tech.(MDU Rohtak) NET (2009) <br></h5> <p>Specialiazation: Operating Systems</p> <a href="mailto:sunita2009@gmail.com" target="_blank">sunita2009@gmail.com	</a> <p><a href="#"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
 			buttons: { Back: -1, Next: 1 },
 			focus: 1,
 			submit:function(e,v,m,f){
@@ -73,8 +73,8 @@ $('#facultyCSE' ).on( 'click', function () {
 			}
 		},
 		faccse3: {
-			html:'<h3>Other Curriculum</h3><p><ul><li>Advanced Computer Architecture</li><li>Compiler Construction</li><li>Mobile Computing</li><li>VLSI Design</li><li>Digital Image Processing</li><li>Microprocessor Systems</li><li>Digital Signal Processing</li><li>Data Warehousing & Data Mining</li><li>Digital Circuits & Systems</li><li>Java Programming and Website Design</li><li>Computer Architecture</li><li>Linux and X-Windows Programming</li><li>Software Engineering</li><li>Algorithm Analysis & Design</li><li>Object Oriented Programming using C++</li><li>Communication Systems</li><li>Computer Graphics</li><li>Operating Systems</li><li>Analog Electronics</li><li>Circuits and Systems</li><li>And various other subjects.</li></ul></p>',
-			buttons: { Back: -1, Exit: 0 },
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="" alt="Mr.Amit Khaparde" /> </div><!--icon box top --> <h4>Mr.Amit Khaparde</h4> <h5>Assistant Professor<br><br></h5> <p>Specialiazation: </p> <a href="mailto:khaparde.amit@gmail.com" target="_blank">khaparde.amit@gmail.com</a> <p><a href="#"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
 			focus: 1,
 			submit:function(e,v,m,f){
 				e.preventDefault();
@@ -82,11 +82,138 @@ $('#facultyCSE' ).on( 'click', function () {
 					$.prompt.close();
 				else if(v==-1)
 					$.prompt.goToState('faccse2');
+				else if(v==1)
+					$.prompt.goToState('faccse4');
+			}
+		},
+		faccse4: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/Dr_Anu_Saini_CSE.jpg" alt="Dr Anu Saini" /> </div><!--icon box top --> <h4>Dr Anu Saini</h4> <h5>Assistant Professor<br>  PhD (JNU)<br>M.Tech(MDU Rohtak)<br> B.Tech(MDU Rohtak) <br> </h5> <p>Specialiazation: Web Services, D.B.M.S, Software Testing</p> <a href="mailto:anuanu16@gmail.com" target="_blank">anuanu16@gmail.com </a> <p><a href="#"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse3');
+				else if(v==1)
+					$.prompt.goToState('faccse5');
+			}
+		},
+		faccse5: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/Jatin_cse.jpg" alt="Mr. Jatin Verma" /> </div><!--icon box top --> <h4>Mr.Jatin Verma</h4> <h5>Assistant Professor<br> M.Tech.(GGSIPU)<br> B.Tech.(MDU Rohtak)<br> </h5> <p>Specialiazation: Computer Networks, Cryptography</p> <a href="mailto:vjatin83@gmail.com" target="_blank">vjatin83@gmail.com </a> <p><a href="assets/images/Faculty_Profile/CSE/jatin_verma_cse.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse4');
+				else if(v==1)
+					$.prompt.goToState('faccse6');
+			}
+		},
+		faccse6: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/Jyoti_Tripathi_CSE.jpg" alt="Ms. Jyoti Tripathi" /> </div><!--icon box top --> <h4>Ms. Jyoti Tripathi</h4> <h5>Assistant Professor<br> M.Tech (Banasthali Vidyapeeth) <br>B.Tech (B R Ambedkar Univ.)<br> </h5> <p>Specialiazation: Natural Language Processing and Information Retrieval</p> <a href="mailto:loginjyoti@gmail.com" target="_blank">loginjyoti@gmail.com </a> <p><a href="#"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse5');
+				else if(v==1)
+					$.prompt.goToState('faccse7');
+			}
+		},
+		faccse7: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/KundanKumar_Chandan_CSE.jpg" alt="Mr. Kundan Kumar Chandan" /> </div><!--icon box top --> <h4>Mr. Kundan Kumar Chandan</h4> <h5>Assistant Professor<br> M.Tech.(Jamia Hamdard)<br> B.Tech.(GGSIPU Delhi)<br> </h5> <p>Specialiazation: Algorithms and Theoratical Computer Science</p> <a href="mailto:kundankrchandan@gmail.com" target="_blank">kundankrchandan@gmail.com </a> <p><a href="assets/images/Faculty_Profile/CSE/Kundan_Chandan_CSE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse6');
+				else if(v==1)
+					$.prompt.goToState('faccse8');
+			}
+		},
+		faccse8: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.jpg" alt="Dr. Mamta Mittal" /> </div><!--icon box top --> <h4>Dr. Mamta Mittal</h4> <h5>Assistant Professor<br> Ph.D.(Thapar Univ)<br>M.Tech.(YMCA,MDU Univ)<br> B.Tech.(Kurukshetra Univ.) <br></h5> <p>Specialiazation: Data Mining, DBMS, Big Data and Machine Learning</p> <a href="mailto:mittalmamta@rediffmail.com" target="_blank">mittalmamta@rediffmail.com</a> <p><a href="assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse7');
+				else if(v==1)
+					$.prompt.goToState('faccse9');
+			}
+		},
+		faccse9: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/Dr_Manisha_Manjul_CSE.jpg" alt="Dr. Manisha Manjul" /> </div><!--icon box top --> <h4>Dr. Manisha Manjul</h4> <h5>Assistant Professor<br> PhD (GBU)<br>M.Tech.(NIT Jalandhar)<br> B.Tech.(KNIT Sultanpur) <br> </h5> <p>Specialiazation:COMPUTER NETWORK</p> <a href="mailto:bhavikamanisha@gmail.com" target="_blank">bhavikamanisha@gmail.com</a> <p><a href="#"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse8');
+				else if(v==1)
+					$.prompt.goToState('faccse10');
+			}
+		},
+		faccse10: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/ManjeetPangtey_CSE.jpg" alt="Mr. Manjeet Singh Pangtey" /> </div><!--icon box top --> <h4>Mr. Manjeet Singh Pangtey</h4> <h5>Assistant Professor<br> M.Tech.(IIT Bombay)<br> B.Tech.(G B Pant Univ) <br> </h5> <p>Specialiazation:Web Engineering, Software Engineering</p> <a href="mailto:man74pangtey@gmail.com" target="_blank">man74pangtey@gmail.com</a> <p><a href="assets/images/Faculty_Profile/CSE/Manjeet_Pangtey_CSE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse9');
+				else if(v==1)
+					$.prompt.goToState('faccse11');
+			}
+		},
+		faccse11: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.jpg" alt="Ms. Sunita Tiwari" /> </div><!--icon box top --> <h4>Ms. Sunita Tiwari</h4> <h5>Assistant Professor<br> PhD (Pursuing from IIT Delhi)<br>M. Tech (IIT Delhi)<br>MBA(DAVV Indore) <br> B. E. (RGPV Bhopal)<br> </h5> <p>Specialiazation:Recommender Systems, Location Based Services, Data Mining</p> <a href="mailto:sutiwari@gmail.com" target="_blank">sutiwari@gmail.com</a> <p><a href="assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse10');
+				else if(v==1)
+					$.prompt.goToState('faccse12');
+			}
+		},
+		faccse12: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/CSE/sushil_kumar_cse.jpg" alt="Mr.Sushil Kumar" /> </div><!--icon box top --> <h4>Mr.Sushil Kumar</h4> <h5>Assistant Professor<br> PhD (Pursuning from Thapar Univ.)<br>M.E. (Thapar Univ.)<br> B.Tech (UPTU)<br> </h5> <p>Specialiazation:Vehicular Adhoc Networks, Sensor Networks</p> <a href="mailto:sushilyadav.thapar@gmail.com" target="_blank">sushilyadav.thapar@gmail.com</a> <p><a href="assets/images/Faculty_Profile/CSE/sushil_kumar_cse.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Exit: 0 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('faccse11');
 			}
 		}
 	};
 	$.prompt(facultyCSE);
 });
+
 
 $('#facultyECE' ).on( 'click', function () {
 	var facultyCSE = {
