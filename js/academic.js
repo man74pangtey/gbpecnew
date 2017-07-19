@@ -401,23 +401,23 @@ $('#facultyCSE' ).on( 'click', function () {
 });
 
 
-$('#facultyMAE' ).on( 'click', function () {
-	var facultyCSE = {
-		faccse1: {
-			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/Dr_OP_Verma_CSE.jpg" alt="" /> </div><!--icon box top --> <h4>Dr. O. P. Verma</h4> <h5>Professor, <br> Principal <br> PhD (DU)<br>M, Tech (IIT Delhi)<br> B. E. (MNIT Jaipur) </h5> <p>Specialiazation: Image Processing, Soft Computing, Machine learning, Evolutionary Computing.</p> <a href="mailto:opverma@dce.ac.in" target="_blank">opverma@dce.ac.in	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+('#facultyMAE' ).on( 'click', function () {
+	var facultymae = {
+		facmae1: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.jpg" alt="Dr. Ajay Singholi" width="120" height="140px"/> </div><!--icon box top --> <h4>Dr. Ajay Singholi</h4> <h5>Associate Professor<br> HOD (MAE) <br>Ph.D.<br>  </h5> <p>Specialiazation: Mechanical Engineering</p> <a href="mailto:ajay.igit@gmail.com" target="_blank">ajay.igit@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
 			buttons: { Cancel: false, Next: true },
 			focus: 1,
 			submit:function(e,v,m,f){
 				if(v){
 					e.preventDefault();
-					$.prompt.goToState('faccse2');
+					$.prompt.goToState('facmae2');
 					return false;
 				}
 				$.prompt.close();
 			}
 		},
-		faccse2: {
-			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/profile/SUNITA_CSE.png" alt="" /> </div><!--icon box top --> <h4>Ms. Sunita Kumari</h4> <h5>Assistant Professor<br> HOD (CSE) <br> M.Tech.(MDU Rohtak)<br>B.Tech.(MDU Rohtak) NET (2009)</h5> <p>Specialiazation: Operating Systems</p> <a href="mailto:mailto:sunita2009@gmail.com" target="_blank">sunita2009@gmail.com	</a> <p><a href="Dr_OP_Verma.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+		facmae2: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Dr_Arindam_Kumar_Chanda_MAE.jpg" alt="Dr. Arindam Kumar Chanda" width="120" height="140px"/> </div><!--icon box top --> <h4>Dr. Arindam Kumar Chanda</h4> <h5><br>Associate Professor <br>Ph.D. <br> </h5> <p>Specialiazation:Mechanical Engineering </p> <a href="mailto:akcped@yahoo.com" target="_blank">akcped@yahoo.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Profile-Dr-Arindam-Kumar-Chanda.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
 			buttons: { Back: -1, Next: 1 },
 			focus: 1,
 			submit:function(e,v,m,f){
@@ -425,13 +425,125 @@ $('#facultyMAE' ).on( 'click', function () {
 				if(v==0)
 					$.prompt.close();
 				else if(v==-1)
-					$.prompt.goToState('faccse1');
+					$.prompt.goToState('facmae1');
 				else if(v==1)
-					$.prompt.goToState('faccse3');
+					$.prompt.goToState('facmae3');
 			}
 		},
-		faccse3: {
-			html:'<h3>Other Curriculum</h3><p><ul><li>Advanced Computer Architecture</li><li>Compiler Construction</li><li>Mobile Computing</li><li>VLSI Design</li><li>Digital Image Processing</li><li>Microprocessor Systems</li><li>Digital Signal Processing</li><li>Data Warehousing & Data Mining</li><li>Digital Circuits & Systems</li><li>Java Programming and Website Design</li><li>Computer Architecture</li><li>Linux and X-Windows Programming</li><li>Software Engineering</li><li>Algorithm Analysis & Design</li><li>Object Oriented Programming using C++</li><li>Communication Systems</li><li>Computer Graphics</li><li>Operating Systems</li><li>Analog Electronics</li><li>Circuits and Systems</li><li>And various other subjects.</li></ul></p>',
+		facmae3: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.jpg" alt="Mr. Anil Kumar" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Anil Kumar</h4> <h5><br>Assistant Professor<br>M. Tech (GGSIPU)</br>B. Tech (Kurukshetra Univ)<br></h5> <p>Specialiazation: Manufacturing & Automation</p> <a href="mailto:anilritu84@gmail.com" target="_blank">anilritu84@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0) 
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae2');
+				else if(v==1)
+					$.prompt.goToState('facmae4');
+			}
+		},
+		facmae4: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpg" alt="Dr. Anurag Dixit" width="120" height="140px"/> </div><!--icon box top --> <h4>Dr. Anurag Dixit</h4> <h5>Assistant Professor<br> PhD (GBU)</br>M. Tech (IIT Delhi)</br>B. Tech (Agra Univ)<br> </h5> <p>Specialiazation: Finite Element Analysis of Textile Composites, Design Engg, Stress Analysis</p> <a href="mailto:anuragdixitiitd@gmail.com" target="_blank">anuragdixitiitd@gmail.com </a> <p><a href="assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae3');
+				else if(v==1)
+					$.prompt.goToState('facmae5');
+			}
+		},
+		facmae5: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.jpg" alt="Mr. Bhajneet Singh" width="120" height="140px" /> </div><!--icon box top --> <h4>Mr. Bhajneet Singh</h4> <h5>Assistant Professor<br> M. Tech (NIT Jalandhar)</br>B. Tech (PTU Jalandhar)<br> </h5> <p>Specialiazation:Thermal Engineering</p> <a href="mailto:singh84b@gmail.com" target="_blank">singh84b@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae4');
+				else if(v==1)
+					$.prompt.goToState('facmae6');
+			}
+		},
+		facmae6: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/mae/ChandraMohan_Dharmapuri_mae.jpg" alt="Mr. Chandra Mohan Dharmapuri" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Chandra Mohan Dharmapuri</h4> <h5>Assistant Professor<br> M.Tech (BSIT Chevella Rangareddy)<br> B.Tech. (Jatipita College of Engineering, Adilabad)<br> </h5> <p>Specialiazation: VLSI, Communication</p> <a href="mailto:chandu.dharmapuri@gmail.com" target="_blank">chandu.dharmapuri@gmail.com </a> <p><a href="assets/images/Faculty_Profile/mae/ChandraMohan_Dharmapuri_mae.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae5');
+				else if(v==1)
+					$.prompt.goToState('facmae7');
+			}
+		},
+		facmae7: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.jpg" alt="Mr. Dayanidhi Krishana Pathak" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Dayanidhi Krishana Pathak</h4> <h5>Assistant Professor<br> M. Tech (MNNIT Allahbad)</br>B. Tech (UPTU Lucknow)<br> </h5> <p>Specialiazation: Unconventional Machining Processes, Finite Element Analysis<br> <a href="mailto:dayanidhikrishana@gmail.com" target="_blank">dayanidhikrishana@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae6');
+				else if(v==1)
+					$.prompt.goToState('facmae8');
+			}
+		},
+		facmae8: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.jpg" alt="Mr. Irwin Osmond Toppo" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Irwin Osmond Toppo</h4> <h5>Assistant Professor<br> M. E. (IISC Banglore)</br>B. Tech (MIT Muzaffarpur Bihar)<br></h5> <p>Specialiazation: Power Plant, Fluid Meachnics & Heat Transfer</p> <a href="mailto:irwinosmond@gmail.com" target="_blank">irwinosmond@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae7');
+				else if(v==1)
+					$.prompt.goToState('facmae9');
+			}
+		},
+		facmae9: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.jpg" alt="Mr. Jayant Supale" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Jayant Supale</h4> <h5>Assistant Professor<br> M. Tech (MNNIT Allahbad)</br>B. Tech (Nagpur Univ.) <br> </h5> <p>Specialiazation:Manufacturing & Automation</p> <a href="mailto:jayant.supale@gmail.com" target="_blank">jayant.supale@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae8');
+				else if(v==1)
+					$.prompt.goToState('facmae10');
+			}
+		},
+		facmae10: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.jpg" alt="Mr. Jitendra Kumar" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Jitendra Kumar</h4> <h5>Assistant Professor<br> M. Tech (Delhi Technological University, Delhi)</br>B. Tech (GBPUAT Pantnagar)<br> </h5> <p>Specialiazation:Thermodynamics and Heat Transfer</p> <a href="mailto:roh_anand@rediffmail.com" target="_blank">roh_anand@rediffmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
+			buttons: { Back: -1, Next: 1 },
+			focus: 1,
+			submit:function(e,v,m,f){
+				e.preventDefault();
+				if(v==0)
+					$.prompt.close();
+				else if(v==-1)
+					$.prompt.goToState('facmae9');
+				else if(v==1)
+					$.prompt.goToState('facmae11');
+			}
+		},
+	facmae11: {
+			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.jpg" alt="Dr. Rishu Sharma" width="120" height="140px"/> </div><!--icon box top --> <h4>Dr. Rishu Sharma</h4> <h5>Assistant Professor<br> PhD (DU)<br>M. Tech (DCE, DElhi) <br> B. Tech (GGSIPU)<br> </h5> <p>Specialiazation:</p>Production and Industrial Engineering <a href="mailto:sharma.rishu@gmail.com" target="_blank">sharma.rishu@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
 			buttons: { Back: -1, Exit: 0 },
 			focus: 1,
 			submit:function(e,v,m,f){
@@ -439,13 +551,12 @@ $('#facultyMAE' ).on( 'click', function () {
 				if(v==0)
 					$.prompt.close();
 				else if(v==-1)
-					$.prompt.goToState('faccse2');
+					$.prompt.goToState('facmae10');
 			}
 		}
 	};
-	$.prompt(facultyCSE);
+	$.prompt(facultymae);
 });
-
 $('#facultyHAS' ).on( 'click', function () {
 	var facultyCSE = {
 		faccse1: {
