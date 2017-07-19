@@ -34,11 +34,11 @@
           
 			<div class="fluid_container">                       
                 <div class="camera_wrap camera_emboss pattern_1" id="camera_wrap_4">
-                    <div data-thumb="assets/images/slides/thumbs/img1.jpg" data-src="assets/images/slides/img1.jpg">
+                    <div data-thumb="assets/images/slides/thumbs/img1.jpg" data-src="assets/images/slides/building-1.png">
                     </div> 
-                    <div data-thumb="assets/images/slides/thumbs/img2.jpg" data-src="assets/images/slides/img2.jpg">
+                    <div data-thumb="assets/images/slides/thumbs/img2.jpg" data-src="assets/images/slides/building-2.png">
                     </div>
-                    <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img3.jpg">
+                    <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/building-3.png">
                     </div> 
                     <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img4.jpg">
                     </div> 

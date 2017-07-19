@@ -19,6 +19,11 @@
 	<script src="assets/js/html5shiv.js"></script>
 	<script src="assets/js/respond.min.js"></script>
 	<![endif]-->
+	<style type="text/css">
+		.col-md-6 {
+		    width: 75%;
+		}
+	</style>
 </head>
 
 <body>
@@ -36,54 +41,109 @@
     <!-- container -->
 	<div class="container">
 				<div class="row">
-					<div class="col-md-8">
-						<h3 class="section-title">Your Message</h3>
-						<p>
-						Lorem Ipsum is inting and typesetting in simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the is dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-						</p>
-						
-						<form class="form-light mt-20" role="form">
-							<div class="form-group">
-								<label>Name</label>
-								<input type="text" class="form-control" placeholder="Your name">
-							</div>
-							<div class="row">
-								<div class="col-md-6">
-									<div class="form-group">
-										<label>Email</label>
-										<input type="email" class="form-control" placeholder="Email address">
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="form-group">
-										<label>Phone</label>
-										<input type="text" class="form-control" placeholder="Phone number">
-									</div>
-								</div>
-							</div>
-							<div class="form-group">
-								<label>Subject</label>
-								<input type="text" class="form-control" placeholder="Subject">
-							</div>
-							<div class="form-group">
-								<label>Message</label>
-								<textarea class="form-control" id="message" placeholder="Write you message here..." style="height:100px;"></textarea>
-							</div>
-							<button type="submit" class="btn btn-two">Send message</button><p><br/></p>
-						</form>
-					</div>
-					<div class="col-md-4">
-						<div class="row">
-							<div class="col-md-6">
-								<h3 class="section-title">Office Address</h3>
-								<div class="contact-info"> 
-            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
-            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
-            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
-             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:info@gbpec.edu.in"> info@gbpec.edu.in</a>
-              </div> 
-							</div> 
-						</div> 						
+					<div class="col-md-8">						
+						<section class="news-box top-margin">
+					        <div class="container">
+					            <div class="row">					         
+					                <div class="col-lg-4 col-md-4 col-sm-12">
+					                    <div class="newsBox">
+					                        <div class="thumbnail">
+					                            <div class="col-md-6">
+													<h3 class="section-title">PRINCIPAL</h3>
+													<div class="contact-info"> 
+											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
+											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
+											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
+											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:info@gbpec.edu.in"> info@gbpec.edu.in</a>
+					              					</div> 
+												</div> 
+					                        </div>
+					                    </div>
+					                </div>	
+					                <div class="col-lg-4 col-md-4 col-sm-12">
+					                    <div class="newsBox">
+					                        <div class="thumbnail">
+					                            <div class="col-md-6">
+													<h3 class="section-title">HOD (CSE): Ms. Sunita Kumari</h3>
+													<div class="contact-info"> 
+											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
+											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
+											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
+											            <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:sunita2009@gmail.com"> sunita2009@gmail.com</a>
+					              					</div> 
+												</div> 
+					                        </div>
+					                    </div>
+					                </div>
+					                <div class="col-lg-4 col-md-4 col-sm-12">
+					                    <div class="newsBox">
+					                        <div class="thumbnail">
+					                            <div class="col-md-6">
+													<h3 class="section-title">HOD (ECE): Mr. Sanjay Kumar</h3>
+													<div class="contact-info"> 
+											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
+											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
+											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
+											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:skdalal.vlsi@gmail.com">skdalal.vlsi@gmail.com</a>
+					              					</div> 
+												</div> 
+					                        </div>
+					                    </div>
+					                </div>				               
+					            </div>
+					        </div>
+					    </section>
+					    <section class="news-box top-margin">
+					        <div class="container">
+					            <div class="row">					       
+					                <div class="col-lg-4 col-md-4 col-sm-12">
+					                    <div class="newsBox">
+					                        <div class="thumbnail">
+					                            <div class="col-md-6">
+													<h3 class="section-title">HOD (ECE): Mr. Sanjay Kumar</h3>
+													<div class="contact-info"> 
+											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
+											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
+											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
+											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:skdalal.vlsi@gmail.com">skdalal.vlsi@gmail.com</a>
+					              					</div> 
+												</div> 
+					                        </div>
+					                    </div>
+					                </div>
+					                <div class="col-lg-4 col-md-4 col-sm-12">
+					                    <div class="newsBox">
+					                        <div class="thumbnail">
+					                            <div class="col-md-6">
+													<h3 class="section-title">HOD (HAS): Mr. Sandeep K. Mittal</h3>
+													<div class="contact-info"> 
+											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
+											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
+											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
+											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:sandeep.mittal1983@yahoo.com"> sandeep.mittal1983@yahoo.com</a>
+					              					</div> 
+												</div> 
+					                        </div>
+					                    </div>
+					                </div>	
+					                <div class="col-lg-4 col-md-4 col-sm-12">
+					                    <div class="newsBox">
+					                        <div class="thumbnail">
+					                            <div class="col-md-6">
+													<h3 class="section-title">HOD (T&P): Ms. Sunita Tiwari</h3>
+													<div class="contact-info"> 
+											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
+											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
+											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
+											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:info@gbpec.edu.in"> sunita.tiwari@gbpec.edu.in</a>
+					              					</div> 
+												</div> 
+					                        </div>
+					                    </div>
+					                </div>				               
+					            </div>
+					        </div>
+					    </section>
 					</div>
 				</div>
 			</div>

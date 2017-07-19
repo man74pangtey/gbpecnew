@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap-table-master/src/bootstrap-table.css">
     <!-- <link rel="stylesheet" href="../assets/examples.css"> -->
-    <link rel="stylesheet" href="https://rawgit.com/akottr/dragtable/master/dragtable.css">
+    <link rel="stylesheet" href="bootstrap-table-master/dragtable.css">
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	<script src="assets/js/html5shiv.js"></script>
@@ -39,26 +39,6 @@
     </header>
 
     <h1>Page Under Construction</h1>
-
-    <div class="container">
-        <h1>Pagination Demo</h1>
-        <table id="table"
-               data-toggle="table"
-               data-show-columns="true" 
-			   data-search="true" 
-			   data-show-toggle="true"
-               data-pagination="true"
-               data-url="data1.json"
-			   data-reorderable-columns="true">
-            <thead>
-            <tr>
-                <th data-field="id" data-sortable="true">ID</th>
-                <th data-field="name" data-sortable="true">Item Name</th>
-                <th data-field="price" data-sortable="true">Item Price</th>
-            </tr>
-            </thead>
-        </table>
-    </div>
 
  <footer id="footer">
  	<?php include("footer.php"); ?>	
@@ -86,8 +66,8 @@
     <!-- <script src="../assets/bootstrap/js/bootstrap.min.js"></script> -->
     <script src="bootstrap-table-master/src/bootstrap-table.js"></script>
     <script src="bootstrap-table-master/src/extensions/reorder-columns/bootstrap-table-reorder-columns.js"></script>
-	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    <script src="https://rawgit.com/akottr/dragtable/master/jquery.dragtable.js"></script>
+	<script src="bootstrap-table-master/jquery-ui.js"></script>
+    <script src="bootstrap-table-master/jquery.dragtable.js"></script>
     <!-- <script src="../ga.js"></script> -->
 </body>
 </html>

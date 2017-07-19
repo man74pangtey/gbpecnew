@@ -214,7 +214,6 @@ $('#facultyCSE' ).on( 'click', function () {
 	$.prompt(facultyCSE);
 });
 
-
 ('#facultyECE' ).on( 'click', function () {
 	var facultyece = {
 		facece1: {

@@ -26,58 +26,58 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.jpg' width='120' height='140px' alt='Mr. Anil Kumar' />",
 		"designation": "<h6>Mr. Anil Kumar</h6></br>Assistant Professor",
-		"qualification": "M. Tech (GGSIPU) <br>B. Tech (Kurukshetra Univ)",
-		"specialization": "Manufacturing & Automation	",
-		"email": "<a href='mailto:anilritu84@gmail.com' target='_blank'>anilritu84@gmail.com </a>",
+		"qualification": "M. Tech (GGSIPU)</br>B. Tech (Kurukshetra Univ)",
+		"specialization": "Manufacturing & Automation",
+		"email": "<a href='mailto:anilritu84@gmail.com' target='_blank'>anilritu84@gmail.com</a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/KundanKumar_Chandan_CSE.jpg' width='120' height='140px' alt='Mr. Kundan Kumar Chandan' />",
-		"designation": "<h6>Mr. Kundan Kumar Chandan</h6></br>Assistant Professor",
-		"qualification": "M.Tech.(Jamia Hamdard)<br> B.Tech.(GGSIPU Delhi)",
-		"specialization": "Algorithms and Theoratical Computer Science",
-		"email": "<a href='mailto:kundankrchandan@gmail.co' target='_blank'>kundankrchandan@gmail.co </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/MAE/Kundan_Chandan_CSE.pdf'>See Profile</a>"
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpg' width='120' height='140px' alt='Dr. Anurag Dixit' />",
+		"designation": "<h6>Dr. Anurag Dixit</h6></br>Assistant Professor",
+		"qualification": "PhD (GBU)</br>M. Tech (IIT Delhi)</br>B. Tech (Agra Univ)",
+		"specialization": "Finite Element Analysis of Textile Composites, Design Engg, Stress Analysis",
+		"email": "<a href='mailto:anuragdixitiitd@gmail.com' target='_blank'>anuragdixitiitd@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Mamta_Mittal_CSE.jpg' width='120' height='140px' alt='Dr. Mamta Mittal' />",
-		"designation": "<h6>Dr. Mamta Mittal</h6></br>Assistant Professor",
-		"qualification": "Ph.D.(Thapar Univ)<br>M.Tech.(YMCA,MDU Univ)<br> B.Tech.(Kurukshetra Univ.)",
-		"specialization": "Data Mining, DBMS, Big Data and Machine Learning",
-		"email": "<a href='mailto:mittalmamta@rediffmail.com' target='_blank'>mittalmamta@rediffmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Mamta_Mittal_CSE.pdf'>See Profile</a>"
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.jpg' width='120' height='140px' alt='Mr. Bhajneet Singh' />",
+		"designation": "<h6>Mr. Bhajneet Singh</h6></br>Assistant Professor",
+		"qualification": "M. Tech (NIT Jalandhar)</br>B. Tech (PTU Jalandhar)",
+		"specialization": "Thermal Engineering",
+		"email": "<a href='mailto:singh84b@gmail.com' target='_blank'>singh84b@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Manisha_Manjul_CSE.jpg' width='120' height='140px' alt='Dr. Manisha Manjul' />",
-		"designation": "<h6>Dr. Manisha Manjul</h6></br>Assistant Professor",
-		"qualification": "PhD (GBU)<br>M.Tech.(NIT Jalandhar)<br> B.Tech.(KNIT Sultanpur)",
-		"specialization": "COMPUTER NETWORK",
-		"email": "<a href='mailto:bhavikamanisha@gmail.com' target='_blank'>bhavikamanisha@gmail.com </a>",
-		"profile": "<a href='#'>See Profile</a>"
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.jpg' width='120' height='140px' alt='Mr. Dayanidhi Krishana Pathak' />",
+		"designation": "<h6>Mr. Dayanidhi Krishana Pathak</h6></br>Assistant Professor",
+		"qualification": "M. Tech (MNNIT Allahbad)</br>B. Tech (UPTU Lucknow)",
+		"specialization": "Unconventional Machining Processes, Finite Element Analysis",
+		"email": "<a href='mailto:dayanidhikrishana@gmail.com' target='_blank'>dayanidhikrishana@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/ManjeetPangtey_CSE.jpg' width='120' height='140px' alt='Mr. Manjeet Singh Pangtey' />",
-		"designation": "<h6>Mr. Manjeet Singh Pangtey</h6></br>Assistant Professor",
-		"qualification": "M.Tech.(IIT Bombay)<br> B.Tech.(G B Pant Univ)",
-		"specialization": "Web Engineering, Software Engineering",
-		"email": "<a href='mailto:man74pangtey@gmail.com' target='_blank'>man74pangtey@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/MAE/Manjeet_Pangtey_CSE.pdf'>See Profile</a>"
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.jpg' width='120' height='140px' alt='Mr. Irwin Osmond Toppo' />",
+		"designation": "<h6>Mr. Irwin Osmond Toppo</h6></br>Assistant Professor",
+		"qualification": "M. E. (IISC Banglore)</br>B. Tech (MIT Muzaffarpur Bihar)",
+		"specialization": "Power Plant, Fluid Meachnics & Heat Transfer",
+		"email": "<a href='mailto:irwinosmond@gmail.com' target='_blank'>irwinosmond@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Sunita_Tiwari_CSE.jpg' width='120' height='140px' alt='Ms. Sunita Tiwari' />",
-		"designation": "<h6>Ms. Sunita Tiwari</h6></br>Assistant Professor",
-		"qualification": "PhD (Pursuing from IIT Delhi)<br>M. Tech (IIT Delhi)<br>MBA(DAVV Indore) <br> B. E. (RGPV Bhopal)",
-		"specialization": "Recommender Systems, Location Based Services, Data Mining",
-		"email": "<a href='mailto:sutiwari@gmail.com' target='_blank'>sutiwari@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/MAE/Sunita_Tiwari_CSE.pdf'>See Profile</a>"
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.jpg' width='120' height='140px' alt='Mr. Jayant Supale' />",
+		"designation": "<h6>Mr. Jayant Supale</h6></br>Assistant Professor",
+		"qualification": "M. Tech (MNNIT Allahbad)</br>B. Tech (Nagpur Univ.)",
+		"specialization": "Manufacturing & Automation",
+		"email": "<a href='mailto:jayant.supale@gmail.com' target='_blank'>jayant.supale@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/sushil_kumar_cse.jpg' width='120' height='140px' alt='Mr.Sushil Kumar' />",
-		"designation": "<h6>Mr.Sushil Kumar</h6></br>Assistant Professor",
-		"qualification": "PhD (Pursuning from Thapar Univ.)<br>M.E. (Thapar Univ.)<br> B.Tech (UPTU)<",
-		"specialization": "Vehicular Adhoc Networks, Sensor Networks",
-		"email": "<a href='mailto:sushilyadav.thapar@gmail.com' target='_blank'>sushilyadav.thapar@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/MAE/sushil_kumar_cse.pdf'>See Profile</a>"
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.jpg' width='120' height='140px' alt='Mr. Jitendra Kumar' />",
+		"designation": "<h6>Mr. Jitendra Kumar</h6></br>Assistant Professor",
+		"qualification": "M. Tech (Delhi Technological University, Delhi)</br>B. Tech (GBPUAT Pantnagar)",
+		"specialization": "Thermodynamics and Heat Transfer",
+		"email": "<a href='#' target='_blank'></a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.pdf'>See Profile</a>"
 	}
 ]
 
