@@ -182,8 +182,10 @@
                             <div class="box_inner">
                                         <div class="box">
                                             <h2 id="principalsdesk">From Principal's desk</h2>
-                                            <p>It is indeed a great pleasure for me to mark the presence of Govind Ballabh Pant Engineering College (GBPEC) in the highly competitive world. It is a matter of immense pride that GBPEC continues to be one of the highly sought after institutions affiliated to the Guru Gobind Singh Indraprashta University (GGSIPU) for admissions to engineering and technology programs. </p>
+
+                                            <p>It is indeed a great pleasure for me to mark the presence of Govind Ballabh Pant Engineering College (GBPEC) in the highly competitive world. It is a matter of immense pride that GBPEC continues to be one of the highly sought after institutions affiliated to the Guru Gobind Singh Indraprashta University (GGSIPU) for admissions to engineering and technology programs.</p>
                                             <a href="aboutus.php#principalsdesk" title="read more" class="btn-inline " target="_self">Read more →</a>
+
                                         </div> 
                                 </div>
                             </div>
@@ -197,8 +199,11 @@
                            <div class="box_inner">
                                         <div class="box">
                                             <h2 id="adminstaffinfo">Admin Staff Information</h2>
-                                            <p>On behalf of Staff & students of GBPEC Okhla, I feel immensely privileged in extending my whole hearted invitation to your esteemed organisation, to participate in the campus recruitment programs for the forth-coming years.</p>
+
+                                            <p> Under Construction
+                                            </p>
                                             <a href="aboutus.php#adminstaffinfo" title="read more" class="btn-inline " target="_self">Read more →</a>
+
                                         </div> 
                                 </div>
                             </div>
@@ -222,10 +227,12 @@
                             <div class="caption maxheight2">
                             <div class="box_inner">
                                         <div class="box">
-                                            <h2 id="visionmission">Our Vision and Mission</h2>
-                                            <p>The mission of G B Pant govt. engineering college is the advancement of knowledge by educating students in Engineering Sciences, Applied Sciences and Humanities. By following a holistic and inter-disciplinary approach, we believe in producing Engineers who would serve the country and the world in the 21st century.</p>
-                                            <a href="aboutus.php#visionmission" title="read more" class="btn-inline " target="_self">Read more →</a>
-                                        </div> 
+
+                                            <h2 id="visionmission">Our Vision and Mission</h2> 
+                                            <h3 id="visionmission">Our Vision</h3> 
+                                            <p>The vision of G B Pant engineering college is to produce a society grounded in technological advancement, social justice and equality by combining knowledge, creativity, ethics and co-operation.</p> 
+                                            <a href="aboutus.php#visionmission" title="read more" class="btn-inline " target="_self">Read more →</a> </div>
+
                                 </div>
                             </div>
                         </div>
@@ -238,8 +245,10 @@
                             <div class="box_inner">
                                         <div class="box">
                                             <h2 id="objective">Our Objective</h2>
-                                            <p>To develop analytical skills and problem solving capabilities in the students by educating them in appropriate streams of technology and computational methodologies </p>
+
+                                            <p> To develop analytical skills and problem solving capabilities in the students by educating them in appropriate streams of technology and computational methodologies </p> 
                                             <a href="aboutus.php#objective" title="read more" class="btn-inline " target="_self">Read more →</a>
+
                                         </div> 
                                 </div>
                             </div>
