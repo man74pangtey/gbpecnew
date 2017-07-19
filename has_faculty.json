@@ -1,91 +1,59 @@
 [
 	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/SUNITA_CSE.png' width='120' height='140px' alt='Sunita Kumari' />",
-		"designation": "<h6>Ms. Sunita Kumari</h6></br>Assistant Professor<br> HOD (CSE)",
-		"qualification": "M.Tech.(MDU Rohtak) <br> B.Tech.(MDU Rohtak) NET (2009)",
-		"specialization": "Operating Systems",
-		"email": "<a href='mailto:sunita2009@gmail.com' target='_blank'>sunita2009@gmail.com </a>",
+		"name": "<img src='' width='120' height='140px' alt='Mr. Sandeep Kumar Mittal' />",
+		"designation": "<h6>Mr. Sandeep Kumar Mittal</h6></br>Assistant Professor<br> (HOD)",
+		"qualification": "M.Sc(Maths),JRF-2007,GATE2007(AIR-62)",
+		"specialization": "Differential equation,Calculus,Analysis,optimization+",
+		"email": "<a href='mailto:sandeep.mittal1983@yahoo.com' target='_blank'>sandeep.mittal1983@yahoo.com </a>",
 		"profile": "<a href='#'>See Profile</a>"
 	},
 	{
-		"name": "<img src='' width='120' height='140px' alt='Mr.Amit Khaparde' />",
-		"designation": "<h6>Mr.Amit Khaparde</h6></br>Assistant Professor",
+		"name": "<img src='' width='120' height='140px' alt='Mr. Joshil K Abraham' />",
+		"designation": "<h6>Mr. Joshil K Abraham</h6></br>Assistant Professor",
+		"qualification": "M.A. English",
+		"specialization": "Critical Theory, <br>Caste and Literature, <br>Caste and Film, <br>Communication Skills",
+		"email": "<a href='mailto:joshilkabraham@gmail.com' target='_blank'>joshilkabraham@gmail.com </a>",
+		"profile": "<a href='#'>See Profile</a>"
+	},
+	{
+		"name": "<img src='' width='120' height='140px' alt='Dr. Vishnu Vats' />",
+		"designation": "<h6>Dr. Vishnu Vats</h6></br>Assistant Professor",
+		"qualification": "Ph.D.,M.Sc.(Chemistry)",
+		"specialization": "Physical Chemistry",
+		"email": "<a href='mailto:Vatsvish_2006@yahoo.co.in' target='_blank'>Vatsvish_2006@yahoo.co.in</a>",
+		"profile": "<a href='#'>See Profile</a>"
+	},
+	{
+		"name": "<img src='' width='120' height='140px' alt='Ms. Archna' />",
+		"designation": "<h6>Ms. Archna</h6></br>Assistant Professor",
+		"qualification": "M. Sc (CCS Univ), NET",
+		"specialization": "",
+		"email": "<a href='mailto:archana.organic17@gmail.com' target='_blank'>archana.organic17@gmail.com</a>",
+		"profile": "<a href='#'>See Profile</a>"
+	},
+	{
+		"name": "<img src='' width='120' height='140px' alt='Mr. Saravanan P.' />",
+		"designation": "<h6>Mr. Saravanan P.</h6></br>Assistant Professor",
+		"qualification": "M. Sc (Pondicherry University), NET, M. Phil",
+		"specialization": "Natural Language Processing and Information Retrieval",
+		"email": "<a href='mailto:saran202001@gmail.com' target='_blank'>saran202001@gmail.com </a>",
+		"profile": "<a href='#'>See Profile</a>"
+	},
+	{
+		"name": "<img src='' width='120' height='140px' alt='Mr. Bhuvanesh' />",
+		"designation": "<h6>Mr. Bhuvanesh</h6></br>Assistant Professor",
+		"qualification": "M.Sc.(Physics), M.Tech.",
+		"specialization": "Solid state electronic devices<br> and nanotechnology",
+		"email": "<a href='mailto:bhuwanesh@gbpec.edu.in' target='_blank'>bhuwanesh@gbpec.edu.in </a>",
+		"profile": "<a href='#'>See Profile</a>"
+	},
+	{
+		"name": "<img src='' width='120' height='140px' alt='Mr. Rajesh' />",
+		"designation": "<h6>Mr. Rajesh</h6></br>Assistant Professor",
 		"qualification": "",
 		"specialization": "",
-		"email": "<a href='mailto:khaparde.amit@gmail.com' target='_blank'>khaparde.amit@gmail.com </a>",
-		"profile": "<a href='#'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/Dr_Anu_Saini_CSE.jpg' width='120' height='140px' alt='Dr. Anu Saini' />",
-		"designation": "<h6>Dr Anu Saini</h6></br>Assistant Professor",
-		"qualification": "PhD (JNU)<br>M.Tech(MDU Rohtak)<br> B.Tech(MDU Rohtak)",
-		"specialization": "Web Services, D.B.M.S, Software Testing",
-		"email": "<a href='mailto:anuanu16@gmail.com' target='_blank'>anuanu16@gmail.com </a>",
-		"profile": "<a href='#'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/Jatin_cse.jpg' width='120' height='140px' alt='Jatin Verma' />",
-		"designation": "<h6>Mr.Jatin Verma</h6></br>Assistant Professor",
-		"qualification": "M.Tech.(GGSIPU)<br> B.Tech.(MDU Rohtak)",
-		"specialization": "Computer Networks, Cryptography",
-		"email": "<a href='mailto:vjatin83@gmail.com' target='_blank'>vjatin83@gmail.com</a>",
-		"profile": "<a href='assets/images/Faculty_Profile/CSE/jatin_verma_cse.pdf'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/Jyoti_Tripathi_CSE.jpg' width='120' height='140px' alt='Ms. Jyoti Tripathi' />",
-		"designation": "<h6>Ms. Jyoti Tripathi</h6></br>Assistant Professor",
-		"qualification": "M.Tech (Banasthali Vidyapeeth) <br>B.Tech (B R Ambedkar Univ.)",
-		"specialization": "Natural Language Processing and Information Retrieval",
-		"email": "<a href='mailto:loginjyoti@gmail.com' target='_blank'>loginjyoti@gmail.com </a>",
-		"profile": "<a href='#'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/KundanKumar_Chandan_CSE.jpg' width='120' height='140px' alt='Mr. Kundan Kumar Chandan' />",
-		"designation": "<h6>Mr. Kundan Kumar Chandan</h6></br>Assistant Professor",
-		"qualification": "M.Tech.(Jamia Hamdard)<br> B.Tech.(GGSIPU Delhi)",
-		"specialization": "Algorithms and Theoratical Computer Science",
-		"email": "<a href='mailto:kundankrchandan@gmail.co' target='_blank'>kundankrchandan@gmail.co </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/CSE/Kundan_Chandan_CSE.pdf'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.jpg' width='120' height='140px' alt='Dr. Mamta Mittal' />",
-		"designation": "<h6>Dr. Mamta Mittal</h6></br>Assistant Professor",
-		"qualification": "Ph.D.(Thapar Univ)<br>M.Tech.(YMCA,MDU Univ)<br> B.Tech.(Kurukshetra Univ.)",
-		"specialization": "Data Mining, DBMS, Big Data and Machine Learning",
-		"email": "<a href='mailto:mittalmamta@rediffmail.com' target='_blank'>mittalmamta@rediffmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.pdf'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/Dr_Manisha_Manjul_CSE.jpg' width='120' height='140px' alt='Dr. Manisha Manjul' />",
-		"designation": "<h6>Dr. Manisha Manjul</h6></br>Assistant Professor",
-		"qualification": "PhD (GBU)<br>M.Tech.(NIT Jalandhar)<br> B.Tech.(KNIT Sultanpur)",
-		"specialization": "COMPUTER NETWORK",
-		"email": "<a href='mailto:bhavikamanisha@gmail.com' target='_blank'>bhavikamanisha@gmail.com </a>",
-		"profile": "<a href='#'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/ManjeetPangtey_CSE.jpg' width='120' height='140px' alt='Mr. Manjeet Singh Pangtey' />",
-		"designation": "<h6>Mr. Manjeet Singh Pangtey</h6></br>Assistant Professor",
-		"qualification": "M.Tech.(IIT Bombay)<br> B.Tech.(G B Pant Univ)",
-		"specialization": "Web Engineering, Software Engineering",
-		"email": "<a href='mailto:man74pangtey@gmail.com' target='_blank'>man74pangtey@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/CSE/Manjeet_Pangtey_CSE.pdf'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.jpg' width='120' height='140px' alt='Ms. Sunita Tiwari' />",
-		"designation": "<h6>Ms. Sunita Tiwari</h6></br>Assistant Professor",
-		"qualification": "PhD (Pursuing from IIT Delhi)<br>M. Tech (IIT Delhi)<br>MBA(DAVV Indore) <br> B. E. (RGPV Bhopal)",
-		"specialization": "Recommender Systems, Location Based Services, Data Mining",
-		"email": "<a href='mailto:sutiwari@gmail.com' target='_blank'>sutiwari@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.pdf'>See Profile</a>"
-	},
-	{
-		"name": "<img src='assets/images/Faculty_Profile/CSE/sushil_kumar_cse.jpg' width='120' height='140px' alt='Mr.Sushil Kumar' />",
-		"designation": "<h6>Mr.Sushil Kumar</h6></br>Assistant Professor",
-		"qualification": "PhD (Pursuning from Thapar Univ.)<br>M.E. (Thapar Univ.)<br> B.Tech (UPTU)<",
-		"specialization": "Vehicular Adhoc Networks, Sensor Networks",
-		"email": "<a href='mailto:sushilyadav.thapar@gmail.com' target='_blank'>sushilyadav.thapar@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/CSE/sushil_kumar_cse.pdf'>See Profile</a>"
+		"email": "<a href='' target='_blank'> </a>",
+		"profile": "<a href=''>See Profile</a>"
 	}
 ]
 

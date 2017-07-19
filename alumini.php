@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap-table-master/src/bootstrap-table.css">
     <!-- <link rel="stylesheet" href="../assets/examples.css"> -->
-    <link rel="stylesheet" href="https://rawgit.com/akottr/dragtable/master/dragtable.css">
+    <link rel="stylesheet" href="bootstrap-table-master/dragtable.css">
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	<script src="assets/js/html5shiv.js"></script>
@@ -86,8 +86,8 @@
     <!-- <script src="../assets/bootstrap/js/bootstrap.min.js"></script> -->
     <script src="bootstrap-table-master/src/bootstrap-table.js"></script>
     <script src="bootstrap-table-master/src/extensions/reorder-columns/bootstrap-table-reorder-columns.js"></script>
-	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-    <script src="https://rawgit.com/akottr/dragtable/master/jquery.dragtable.js"></script>
+	<script src="bootstrap-table-master/jquery-ui.js"></script>
+    <script src="bootstrap-table-master/jquery.dragtable.js"></script>
     <!-- <script src="../ga.js"></script> -->
 </body>
 </html>
