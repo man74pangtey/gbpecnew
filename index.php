@@ -1,9 +1,3 @@
-<!--
-Author: WebThemez
-Author URL: http://webthemez.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +5,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
-	<title>free-educational-responsive-web-template-webEdu</title>
+	<title>G B Pant Government Engineering College</title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -41,7 +35,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="fluid_container">                       
                 <div class="camera_wrap camera_emboss pattern_1" id="camera_wrap_4">
                     <div data-thumb="assets/images/slides/thumbs/img1.jpg" data-src="assets/images/slides/img1.jpg">
-                           <!-- <h2>We develop.</h2> -->
                     </div> 
                     <div data-thumb="assets/images/slides/thumbs/img2.jpg" data-src="assets/images/slides/img2.jpg">
                     </div>
@@ -55,8 +48,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div> 
                     <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img7.jpg">
                     </div> 
-                </div><!-- #camera_wrap_3 -->
-            </div><!-- .fluid_container -->
+                </div>
+            </div>
 		</div>
 	</header>
 	<!-- /Header -->
@@ -67,46 +60,46 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="grey-box-icon">
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/1.png" alt="" />
-					</div><!--icon box top -->
+					</div>
 					<h4>Useful Links</h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
 					eset nec lacus elit dor broma.</p>
  					<p><a href="#"><em>Read More</em></a></p>
-				</div><!--grey box -->
-			</div><!--/span3-->
+				</div>
+			</div>
 			<div class="col-md-3">
 				<div class="grey-box-icon">
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/2.png" alt="" />
-					</div><!--icon box top -->
+					</div>
 					<h4>Meet our Staff</h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
 					eset nec lacus elit dor broma.</p>
 						<p><a href="#"><em>Read More</em></a></p>
-				</div><!--grey box -->
-			</div><!--/span3-->
+				</div>
+			</div>
 			<div class="col-md-3">
 				<div class="grey-box-icon">
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/3.png" alt="" />
-					</div><!--icon box top -->
+					</div>
 					<h4>Latest Updates</h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
 					eset nec lacus elit dor broma.</p>
 						<p><a href="#"><em>Read More</em></a></p>
-				</div><!--grey box -->
-			</div><!--/span3-->
+				</div>
+			</div>
 			<div class="col-md-3">
 				<div class="grey-box-icon">
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/4.png" alt="" />
-					</div><!--icon box top -->
+					</div>
 					<h4>Placements</h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
 					eset nec lacus elit dor broma.</p>
 						<p><a href="#"><em>Read More →</em></a></p>
-				</div><!--grey box -->
-			</div><!--/span3-->
+				</div>
+			</div>
 		</div>
     </div>
     <section class="news-box top-margin">
@@ -165,19 +158,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    
     <section class="news-box top-margin">
         <div class="container">
-            <!-- <h2><span>New Courses</span></h2> -->
             <div class="row">
        
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="newsBox">
                         <div class="thumbnail">
-                            <!-- <figure><img src="assets/images/news2.jpg" alt=""></figure> -->
                             <div class="caption maxheight2">
                             <div class="box_inner">
                                         <div class="box">
                                             <h2 id="aboutus">About Us</h2>
                                             <p>G B Pant Engineering College was established by the Govt. of NCT of Delhi in the year 2007 with the aim of imparting quality technical education for the students of Delhi and nearby areas. Since its inception, the faculty and staff have been tirelessly working towards the growth of the institution.</p>
-        <a href="aboutus.php" title="read more" class="btn-inline " target="_self">Read more →</a>
+                                            <a href="aboutus.php" title="read more" class="btn-inline " target="_self">Read more →</a>
                                         </div> 
                                 </div>
                             </div>
@@ -187,13 +178,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="newsBox">
                         <div class="thumbnail">
-                            <!-- <figure><img src="assets/images/news3.jpg" alt=""></figure> -->
                             <div class="caption maxheight2">
                             <div class="box_inner">
                                         <div class="box">
                                             <h2 id="principalsdesk">From Principal's desk</h2>
                                             <p>It is indeed a great pleasure for me to mark the presence of Govind Ballabh Pant Engineering College (GBPEC) in the highly competitive world. It is a matter of immense pride that GBPEC continues to be one of the highly sought after institutions affiliated to the Guru Gobind Singh Indraprashta University (GGSIPU) for admissions to engineering and technology programs. </p>
-        <a href="aboutus.php#principalsdesk" title="read more" class="btn-inline " target="_self">Read more →</a>
+                                            <a href="aboutus.php#principalsdesk" title="read more" class="btn-inline " target="_self">Read more →</a>
                                         </div> 
                                 </div>
                             </div>
@@ -203,13 +193,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="newsBox">
                         <div class="thumbnail">
-                            <!-- <figure><img src="assets/images/news4.jpg" alt=""></figure> -->
                             <div class="caption maxheight2">
                            <div class="box_inner">
                                         <div class="box">
                                             <h2 id="adminstaffinfo">Admin Staff Information</h2>
                                             <p>On behalf of Staff & students of GBPEC Okhla, I feel immensely privileged in extending my whole hearted invitation to your esteemed organisation, to participate in the campus recruitment programs for the forth-coming years.</p>
-        <a href="aboutus.php#adminstaffinfo" title="read more" class="btn-inline " target="_self">Read more →</a>
+                                            <a href="aboutus.php#adminstaffinfo" title="read more" class="btn-inline " target="_self">Read more →</a>
                                         </div> 
                                 </div>
                             </div>
@@ -225,19 +214,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     <section class="news-box top-margin">
         <div class="container">
-            <!-- <h2><span>New Courses</span></h2> -->
             <div class="row">
        
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="newsBox">
                         <div class="thumbnail">
-                            <!-- <figure><img src="assets/images/news2.jpg" alt=""></figure> -->
                             <div class="caption maxheight2">
                             <div class="box_inner">
                                         <div class="box">
                                             <h2 id="visionmission">Our Vision and Mission</h2>
                                             <p>The mission of G B Pant govt. engineering college is the advancement of knowledge by educating students in Engineering Sciences, Applied Sciences and Humanities. By following a holistic and inter-disciplinary approach, we believe in producing Engineers who would serve the country and the world in the 21st century.</p>
-        <a href="aboutus.php#visionmission" title="read more" class="btn-inline " target="_self">Read more →</a>
+                                            <a href="aboutus.php#visionmission" title="read more" class="btn-inline " target="_self">Read more →</a>
                                         </div> 
                                 </div>
                             </div>
@@ -247,13 +234,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="newsBox">
                         <div class="thumbnail">
-                            <!-- <figure><img src="assets/images/news3.jpg" alt=""></figure> -->
                             <div class="caption maxheight2">
                             <div class="box_inner">
                                         <div class="box">
                                             <h2 id="objective">Our Objective</h2>
                                             <p>To develop analytical skills and problem solving capabilities in the students by educating them in appropriate streams of technology and computational methodologies </p>
-        <a href="aboutus.php#objective" title="read more" class="btn-inline " target="_self">Read more →</a>
+                                            <a href="aboutus.php#objective" title="read more" class="btn-inline " target="_self">Read more →</a>
                                         </div> 
                                 </div>
                             </div>
@@ -263,7 +249,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="newsBox">
                         <div class="thumbnail">
-                            <!-- <figure><img src="assets/images/news4.jpg" alt=""></figure> -->
                             <div class="caption maxheight2">
                            <div class="box_inner">
                                         <div class="box">
@@ -271,11 +256,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                             <p>
                                                 <div class="list styled custom-list">
                                                   <marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="2" direction="up" width="100%" height="120px" align="justify" style="color:black;margin:0 10px 0 0"> 
-                                                    <ul>
-                                                      <li><a title="Snatoque penatibus et magnis dis partu rient montes ascetur ridiculus mus." href="#">Mathematics and Computer Science</a></li>
-                                                      <li><a title="Fusce feugiat malesuada odio. Morbi nunc odio gravida at cursus nec luctus." href="#">Mathematics and Philosophy</a></li>
-                                                      <li><a title="Penatibus et magnis dis parturient montes ascetur ridiculus mus." href="#">Philosophy and Modern Languages</a></li>
-                                                      <li><a title="Morbi nunc odio gravida at cursus nec luctus a lorem. Maecenas tristique orci." href="#">History (Ancient and Modern)</a></li>
+                                                  <ul>
+                                                        <?php
+                                                            $f = fopen("noticeandtenders.csv", "r");
+                                                            $flag=true;
+                                                            while (($line = fgetcsv($f)) !== false) {
+                                                                if ($flag == true) {
+                                                                    $flag = false;
+                                                                    continue;
+                                                                }
+                                                                echo "<li><a href=".$line[2]."  >".$line[1]."</a></li>";
+                                                                $count++;                                           
+                                                            }
+                                                            fclose($f);
+                                                        ?>
                                                     </ul>
                                                   </marquee>
                                                   <a href="notes.php" title="read more" class="btn-inline " target="_self">Click here to see all →</a>
@@ -292,28 +286,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </section>
 
     <div>
-  
-  
-
-      <?php
-         $f = fopen("noticeandtenders.csv", "r");
-         while (($line = fgetcsv($f)) !== false) {
-           $count = 0;
-           foreach ($line as $cell) {
-            echo $line[$count]." ";
-            $count++;
-           }
-         }
-         fclose($f);
-      ?>
-
-    </div>
-	
-
-   
-      
-    	 
-    <footer id="footer">
+      <footer id="footer">
       <?php include("footer.php"); ?>	   	
   	</footer>
 

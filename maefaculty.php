@@ -33,28 +33,33 @@
 
 		<header id="head" class="secondary">
             <div class="container">
-                    <h1>Alumini</h1>
+                    <h1>MAE FACULTY</h1>
                     <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p> -->
                 </div>
     </header>
 
-    <h1>Page Under Construction</h1>
+    <!-- <h1>Page Under Construction</h1> -->
 
     <div class="container">
-        <h1>Pagination Demo</h1>
+        <!-- <h1>Pagination Demo</h1> -->
         <table id="table"
                data-toggle="table"
                data-show-columns="true" 
 			   data-search="true" 
 			   data-show-toggle="true"
-               data-pagination="true"
-               data-url="data1.json"
+               /*data-pagination="true"*/
+               data-url="mae_faculty.json"
 			   data-reorderable-columns="true">
             <thead>
             <tr>
-                <th data-field="id" data-sortable="true">ID</th>
-                <th data-field="name" data-sortable="true">Item Name</th>
-                <th data-field="price" data-sortable="true">Item Price</th>
+                <th data-field="name" data-sortable="true">Name</th>
+                <th data-field="designation" data-sortable="true">Name & Designation</th>
+                <th data-field="qualification" data-sortable="true">Qualification</th>
+                <th data-field="specialization" data-sortable="true">Area of Specialization</th>
+                <!-- <th data-field="experience" data-sortable="true">Experience</th> -->
+                <th data-field="email" data-sortable="true">Email</th>
+                <th data-field="profile" data-sortable="true">Profile</th>
+
             </tr>
             </thead>
         </table>
@@ -88,6 +93,8 @@
     <script src="bootstrap-table-master/src/extensions/reorder-columns/bootstrap-table-reorder-columns.js"></script>
 	<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <script src="https://rawgit.com/akottr/dragtable/master/jquery.dragtable.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
     <!-- <script src="../ga.js"></script> -->
 </body>
 </html>

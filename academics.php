@@ -89,7 +89,7 @@
 						<nav id="filter" class="col-md-12 text-center">
 							<ul>
 								<li><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
-								<li><a href="#" class="btn-theme btn-small" data-filter=".curriculum">Curriculum</a></li>
+								<!-- <li><a href="#" class="btn-theme btn-small" data-filter=".curriculum">Curriculum</a></li> -->
 								<li><a href="#" class="btn-theme btn-small" data-filter=".faculty">Faculty Information</a></li>
 								<li><a href="#" class="btn-theme btn-small" data-filter=".lab">Lab Facilities</a></li>
 								<li><a href="#" class="btn-theme btn-small" data-filter=".result">Result</a></li>
@@ -102,7 +102,7 @@
 						<div class="col-md-12">
 							<div class="row">
 								<div class="portfolio-items isotopeWrapper clearfix" id="3">
-									<article class="col-sm-4 isotopeItem curriculum">
+									<!-- <article class="col-sm-4 isotopeItem curriculum">
 										<div class="portfolio-item">
 											<img src="assets/images/portfolio/cse_tile.jpg" alt="" />
 											<div class="portfolio-desc align-center">
@@ -137,7 +137,7 @@
 												</div>
 											</div>
 										</div>
-									</article>
+									</article> -->
 
 									<article class="col-sm-4 isotopeItem faculty">
 										<div class="portfolio-item">
@@ -145,8 +145,9 @@
 											<div class="portfolio-desc align-center">
 												<div class="folio-info">
 													<a id="facultyCSE" class="fancybox"  href="javascript:void(0)">
-														<h5>CSE Faculty</h5>
+														<h5>CSE Faculty: Individual Profile</h5>
 														<i class="fa fa-link fa-2x"></i></a>
+														<h5><a href="csefaculty.php" class="fancybox" target="_blank">CSE Faculty: List view</a></h5>
 												</div>
 											</div>
 										</div>
@@ -157,8 +158,9 @@
 											<div class="portfolio-desc align-center">
 												<div class="folio-info">
 													<a id="facultyECE" class="fancybox"  href="javascript:void(0)">
-														<h5>ECE Faculty</h5>
+														<h5>ECE Faculty: Individual Profile</h5>
 														<i class="fa fa-link fa-2x"></i></a>
+														<h5><a href="ecefaculty.php" class="fancybox" target="_blank">ECE Faculty: List view</a></h5>
 												</div>
 											</div>
 										</div>
@@ -169,8 +171,9 @@
 											<div class="portfolio-desc align-center">
 												<div class="folio-info">
 													<a id="facultyMAE" class="fancybox"  href="javascript:void(0)">
-														<h5>MAE Faculty</h5>
+														<h5>MAE Faculty: Individual Profile</h5>
 														<i class="fa fa-link fa-2x"></i></a>
+														<h5><a href="maefaculty.php" class="fancybox" target="_blank">MAE Faculty: List view</a></h5>
 												</div>
 											</div>
 										</div>
@@ -181,8 +184,9 @@
 											<div class="portfolio-desc align-center">
 												<div class="folio-info">
 													<a id="facultyHAS" class="fancybox"  href="javascript:void(0)">
-														<h5>HAS Faculty</h5>
+														<h5>HAS Faculty: Individual Profile</h5>
 														<i class="fa fa-link fa-2x"></i></a>
+														<h5><a href="hasfaculty.php" class="fancybox" target="_blank">HAS Faculty: List view</a></h5>
 												</div>
 											</div>
 										</div>
