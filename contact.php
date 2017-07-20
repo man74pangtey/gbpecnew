@@ -64,7 +64,7 @@
 					                    <div class="newsBox">
 					                        <div class="thumbnail">
 					                            <div class="col-md-6">
-													<h3 class="section-title">HOD (CSE): Ms. Sunita Kumari</h3>
+													<h3 class="section-title">HOD (MAE): Dr. Ajay Kumar Singholi</h3>
 													<div class="contact-info"> 
 											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
 											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
@@ -79,12 +79,12 @@
 					                    <div class="newsBox">
 					                        <div class="thumbnail">
 					                            <div class="col-md-6">
-													<h3 class="section-title">HOD (ECE): Mr. Sanjay Kumar</h3>
+													<h3 class="section-title">HOD (CSE): Ms. Sunita Kumari</h3>
 													<div class="contact-info"> 
 											            <i class="fa fa-map-marker"></i> G B Pant Government Engineering College 110020  - New Delhi<br>
 											            <i class="fa fa-phone"></i>Phone:- +91-11-26382314 <br>
 											            <i class="fa fa-print"></i>Fax:- +91-11-26382317 <br>
-											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:skdalal.vlsi@gmail.com">skdalal.vlsi@gmail.com</a>
+											             <i class="fa fa-envelope-o"></i>Email :-<a href="mailto:sunita2009@gmail.com">sunita2009@gmail.com</a>
 					              					</div> 
 												</div> 
 					                        </div>
