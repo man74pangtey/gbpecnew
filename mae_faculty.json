@@ -17,9 +17,17 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Profile-Dr-Arindam-Kumar-Chanda.pdf'>See Profile</a>"
 	},
 	{
+		"name": "<img src='assets/images/Faculty_Profile/MAE/AJAY_LAMBA_MAE.jpg' width='120' height='140px' alt='Mr. Ajay Lamba'/>",
+		"designation": "<h6>Mr. Ajay Lamba</h6></br>Assistant Professor",
+		"qualification": "",
+		"specialization": "",
+		"email": "<a href='mailto:' target='_blank'></a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/AJAY_LAMBA_MAE.pdf'>See Profile</a>"
+	},
+	{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.jpg' width='120' height='140px' alt='Mr. Anil Kumar'/>",
 		"designation": "<h6>Mr. Anil Kumar</h6></br>Assistant Professor",
-		"qualification": "M. Tech (GGSIPU)</br>B. Tech (Kurukshetra Univ)",
+		"qualification": "M. Tech (GGSIPU)</br>B. Tech (Kurukshetra University)",
 		"specialization": "Manufacturing & Automation",
 		"email": "<a href='mailto:anilritu84@gmail.com' target='_blank'>anilritu84@gmail.com</a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.pdf'>See Profile</a>"
@@ -27,14 +35,14 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpeg' width='120' height='140px' alt='Dr. Anurag Dixit'/>",
 		"designation": "<h6>Dr. Anurag Dixit</h6></br>Assistant Professor",
-		"qualification": "PhD (GBU)</br>M. Tech (IIT Delhi)</br>B. Tech (Agra Univ)",
+		"qualification": "PhD (GBU)</br>M. Tech (IIT Delhi)</br>B. Tech (Agra University)",
 		"specialization": "Finite Element Analysis of Textile Composites, Design Engg, Stress Analysis",
 		"email": "<a href='mailto:anuragdixitiitd@gmail.com' target='_blank'>anuragdixitiitd@gmail.com</a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.jpg' width='120' height='140px' alt='Mr. Bhajneet Singh'/>",
-		"designation": "<h6>Mr. Bhajneet Singh</h6></br>Assistant Professor",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.jpg' width='120' height='140px' alt='Dr. Bhajneet Singh'/>",
+		"designation": "<h6>Dr. Bhajneet Singh</h6></br>Assistant Professor",
 		"qualification": "M. Tech (NIT Jalandhar)</br>B. Tech (PTU Jalandhar)",
 		"specialization": "Thermal Engineering",
 		"email": "<a href='mailto:singh84b@gmail.com' target='_blank'>singh84b@gmail.com</a>",
@@ -59,7 +67,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.jpg' width='120' height='140px' alt='Mr. Jayant Supale'/>",
 		"designation": "<h6>Mr. Jayant Supale</h6></br>Assistant Professor",
-		"qualification": "M. Tech (MNNIT Allahbad)</br>B. Tech (Nagpur Univ.)",
+		"qualification": "M. Tech (MNNIT Allahabad)</br>B. Tech (Nagpur University)",
 		"specialization": "Manufacturing & Automation",
 		"email": "<a href='mailto:jayant.supale@gmail.com' target='_blank'>jayant.supale@gmail.com</a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.pdf'>See Profile</a>"
@@ -83,7 +91,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.jpg' width='120' height='140px' alt='Dr. Rishu Sharma'/>",
 		"designation": "<h6>Dr. Rishu Sharma</h6></br>Assistant Professor",
-		"qualification": "PhD (DU)<br>M. Tech (DCE, DElhi) <br> B. Tech (GGSIPU)",
+		"qualification": "PhD (DU)<br>M. Tech (DCE, Delhi) <br> B. Tech (GGSIPU)",
 		"specialization": "Production and Industrial Engineering",
 		"email": "<a href='mailto:sharma.rishu@gmail.com' target='_blank'>sharma.rishu@gmail.com </a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.pdf'>See Profile</a>"
