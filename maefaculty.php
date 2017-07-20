@@ -15,10 +15,11 @@
     <link rel='stylesheet' id='camera-css'  href='assets/css/camera.css' type='text/css' media='all'> 
     <link rel="stylesheet" href="rmodal/jquery-impromptu.min.css">
 
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="bootstrap-table-master/src/bootstrap-table.css">
     <!-- <link rel="stylesheet" href="../assets/examples.css"> -->
-    <link rel="stylesheet" href="https://rawgit.com/akottr/dragtable/master/dragtable.css">
+    <link rel="stylesheet" href="bootstrap-table-master/dragtable.css">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	<script src="assets/js/html5shiv.js"></script>
