@@ -28,8 +28,8 @@
 	<header id="head">
 		<div class="container">
             <div class="heading-text">							
-				<h1 class="animated flipInY delay1">Start Online Education</h1>
-				<p>Free Online education template for elearning and online education institute.</p>
+				<h1 class="animated flipInY delay1">G B Pant Government Engineering College</h1>
+				<p>Welcome to our new website and glimpse of future campus</p>
 			</div>
           
 			<div class="fluid_container">                       
@@ -40,13 +40,13 @@
                     </div>
                     <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/building-3.png">
                     </div> 
-                    <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img4.jpg">
+                    <!-- <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img4.jpg">
                     </div> 
                     <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img5.jpg">
                     </div> 
                     <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img6.jpg">
                     </div> 
-                    <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img7.jpg">
+                    <div data-thumb="assets/images/slides/thumbs/img3.jpg" data-src="assets/images/slides/img7.jpg"> -->
                     </div> 
                 </div>
             </div>
@@ -62,9 +62,22 @@
 						<img src="assets/images/1.png" alt="" />
 					</div>
 					<h4>Useful Links</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-					eset nec lacus elit dor broma.</p>
- 					<p><a href="#"><em>Read More</em></a></p>
+					<ul class="menu">
+                        <li><a href="docs/anti-ragging/summary_of_the_Supreme_court_Judgment.pdf" target="_blank">
+                          Anti Ragging Notification-UGC
+                          </a>
+                        </li>
+                        <li><a href="https://www.antiragging.in/Site/Affidavits_registration_form.aspx" target="_blank">
+                            Online Anti Ragging Affidavit
+                          </a>
+                        </li>
+                        <li><a href="https://www.antiragging.in/Site/Complains_details.aspx" target="_blank">
+                            Online Anti Ragging Complain
+                          </a>
+                        </li>
+                        <li><a href="_/index.php">Visit Old Website</a></li>
+                    </ul>
+ 					<p><a href="#"><em>Read More →</em></a></p>
 				</div>
 			</div>
 			<div class="col-md-3">
@@ -72,10 +85,26 @@
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/2.png" alt="" />
 					</div>
-					<h4>Meet our Staff</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-					eset nec lacus elit dor broma.</p>
-						<p><a href="#"><em>Read More</em></a></p>
+					<h4>Meet our Faculties</h4>
+					<ul class="menu">
+                        <li><a href="csefaculty.php" target="_blank">
+                          CSE Faculty List
+                          </a>
+                        </li>
+                        <li><a href="ecefaculty.php" target="_blank">
+                            ECE Faculty List
+                          </a>
+                        </li>
+                        <li><a href="maefaculty.php" target="_blank">
+                            MAE Faculty List
+                          </a>
+                        </li>
+                        <li><a href="hasfaculty.php" target="_blank">
+                            HAS Faculty List
+                          </a>
+                        </li>
+                    </ul>
+					<p><a href="#"><em>Read More →</em></a></p>
 				</div>
 			</div>
 			<div class="col-md-3">
@@ -84,9 +113,27 @@
 						<img src="assets/images/3.png" alt="" />
 					</div>
 					<h4>Latest Updates</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-					eset nec lacus elit dor broma.</p>
-						<p><a href="#"><em>Read More</em></a></p>
+					<div class="list styled custom-list">
+                        <marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="2" direction="up" width="100%" height="120px" align="justify" style="color:black;margin:0 10px 0 0"> 
+                            <ul>
+                                <?php
+                                    $f = fopen("latestupdates.csv", "r");
+                                    $flag=true;
+                                    while (($line = fgetcsv($f)) !== false) {
+                                       if ($flag == true) {
+                                        $flag = false;
+                                        continue;
+                                        }
+                                        echo "<li><a href=".$line[2]."  >".$line[1]."</a></li>";
+                                        $count++;                                           
+                                    }
+                                    fclose($f);
+                                ?>
+                            </ul>
+                        </marquee>
+                      <!-- <a href="notes.php" title="read more" class="btn-inline " target="_self">Click here to see all →</a> -->
+                    </div>
+					<p><a href="#"><em>Read More →</em></a></p>
 				</div>
 			</div>
 			<div class="col-md-3">
@@ -94,15 +141,32 @@
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/4.png" alt="" />
 					</div>
-					<h4>Placements</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-					eset nec lacus elit dor broma.</p>
-						<p><a href="#"><em>Read More →</em></a></p>
+					<h4>Placements and Companies visited</h4>
+                    <div class="list styled custom-list">
+					    <marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="2" direction="up" width="100%" height="100px" align="justify" style="color:black;margin:0 10px 0 0"> 
+                            <ul>
+                                <?php
+                                    $f = fopen("placements.csv", "r");
+                                    $flag=true;
+                                    while (($line = fgetcsv($f)) !== false) {
+                                       if ($flag == true) {
+                                        $flag = false;
+                                        continue;
+                                        }
+                                        echo "<li><a href=".$line[2]."  >".$line[1]."</a></li>";
+                                        $count++;                                           
+                                    }
+                                    fclose($f);
+                                ?>
+                            </ul>
+                        </marquee>
+                    </div>
+					<p><a href="#"><em>Read More →</em></a></p>
 				</div>
 			</div>
 		</div>
     </div>
-    <section class="news-box top-margin">
+    <!-- <section class="news-box top-margin">
         <div class="container">
             <h2><span>New Courses</span></h2>
             <div class="row">
@@ -154,7 +218,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
    
     <section class="news-box top-margin">
         <div class="container">
@@ -299,7 +363,6 @@
       <?php include("footer.php"); ?>	   	
   	</footer>
 
-	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="assets/js/modernizr-latest.js"></script> 
 	<script type='text/javascript' src='assets/js/jquery.min.js'></script>
     <script type='text/javascript' src='assets/js/fancybox/jquery.fancybox.pack.js'></script>

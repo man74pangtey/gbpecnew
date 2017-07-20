@@ -78,6 +78,7 @@ Edited by:
 						</ul>
 					</li> -->
 					<li><a href="contact.php">Contact</a></li>
+					<li><a href="_/index.php">Visit Old Website</a></li>
 
 				</ul>
 			</div>

@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
-	<title>free-educational-responsive-web-template-webEdu</title>
+	<title>G B Pant Government Engineering College</title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -58,7 +58,7 @@
 	<!-- <script src="jquery.min.js"></script> -->
 	<script src="bootstrap-table-master/dist/bootstrap-table.min.js"></script>
 	<script src="bootstrap-table-master/dist/bootstrap-table.js"></script>
-	<-- put your locale files after bootstrap-table.js -->
+	<!-- put your locale files after bootstrap-table.js -->
 	<script src="bootstrap-table-master/dist/locale/bootstrap-table-zh-CN.js"></script>
 
 

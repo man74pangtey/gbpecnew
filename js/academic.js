@@ -214,7 +214,7 @@ $('#facultyCSE' ).on( 'click', function () {
 	$.prompt(facultyCSE);
 });
 
-('#facultyECE' ).on( 'click', function () {
+$('#facultyECE' ).on( 'click', function () {
 	var facultyece = {
 		facece1: {
 			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/ECE/Sanjay_Kumar_ECE.jpg" alt="Mr. Sanjay Kumar" width="120" height="140px"/> </div><!--icon box top --> <h4>Mr. Sanjay Kumar</h4> <h5>Assistant Professor<br> HOD (ECE) <br>M.Tech.(VTU, BELGAUM, KARNATAKA)<br>  B.Tech.(IETE, DELHI) <br> </h5> <p>Specialiazation: </p> <a href="mailto:skdalal.vlsi@gmail.com" target="_blank">skdalal.vlsi@gmail.com	</a> <p><a href="assets/images/Faculty_Profile/ECE/Sanjay_Kumar_ECE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
@@ -400,7 +400,7 @@ $('#facultyCSE' ).on( 'click', function () {
 });
 
 
-('#facultyMAE' ).on( 'click', function () {
+$('#facultyMAE' ).on( 'click', function () {
 	var facultymae = {
 		facmae1: {
 			html:'<div class=""> <div class="grey-box-icon"> <div class="icon-box-top grey-box-icon-pos"> <img src="assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.jpg" alt="Dr. Ajay Singholi" width="120" height="140px"/> </div><!--icon box top --> <h4>Dr. Ajay Singholi</h4> <h5>Associate Professor<br> HOD (MAE) <br>Ph.D.<br>  </h5> <p>Specialiazation: Mechanical Engineering</p> <a href="mailto:ajay.igit@gmail.com" target="_blank">ajay.igit@gmail.com</a> <p><a href="assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.pdf"><em>See Profile →</em></a></p> </div><!--grey box --> </div><!--/span3-->',
@@ -556,6 +556,7 @@ $('#facultyCSE' ).on( 'click', function () {
 	};
 	$.prompt(facultymae);
 });
+
 $('#facultyHAS' ).on( 'click', function () {
 	var facultyCSE = {
 		faccse1: {

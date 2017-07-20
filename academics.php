@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="free-educational-responsive-web-template-webEdu">
 	<meta name="author" content="webThemez.com">
-	<title>free-educational-responsive-web-template-webEdu</title>
+	<title>G B Pant Government Engineering College</title>
 	<link rel="favicon" href="assets/images/favicon.png">
 	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -28,11 +28,10 @@
 
 		<header id="head" class="secondary">
             <div class="container">
-                    <h1>Academics</h1>
-                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliras scele!</p> -->
-                </div>
+                <h1>Academics</h1>
+            </div>
     </header>
-<?-- test for change -->
+
     <div class="container">
         <div class="row">
 			<div class="col-md-3">
@@ -41,10 +40,7 @@
 						<img src="assets/images/cse.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Computer Science Engineering (CSE)</h4>
-					<p>The department of Computer Science Engineering attracts the best students across the country. It offers broad under graduate
-                          curriculum based on application and theoretical foundation of computers with the vision to provide excellence and relevance
-                          in teaching. It offers intensive exposure to latest technologies including E-commerce, multimedia, data mining, advance
-                          computer architecture etc.</p>
+					<p>The department of Computer Science Engineering attracts the best students across the country. It offers broad under graduate curriculum based on application and theoretical foundation of computers with the vision to provide excellence and relevance in teaching. It offers intensive exposure to latest technologies including E-commerce, multimedia, data mining, advance computer architecture etc.</p>
  					<p><a href="#departments"><em>Read More →</em></a></p>
 				</div><!--grey box -->
 			</div><!--/span3-->
@@ -64,15 +60,14 @@
 						<img src="assets/images/mae.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Mechincal And Automation Engineering (MAE)</h4> 
-					<p>The Department of Mechanical Engineering was established in 2007 with a vision to foster quality technical education in meeting the growing demand for technical man power in the industrial sector. </p> 
-					<p>The department offers UG (B.Tech.) program in Mechanical and Automation Engineering. The presence of experienced and highly talented faculty has helped to establish a high reputation for the department in the academia and industry. </p> 
+					<p>The department of MAE was established in 2007 with a vision to foster quality technical education in meeting the growing demand for technical man power in the industrial sector. The department offers (B.Tech.) program in MAE. The presence of experienced and highly talented faculty has helped to establish a high reputation for the department in the academia and industry. </p> 
 					<p><a href="#departments"><em>Read More →</em></a></p> </div><!--grey box --> </div><!--/span3--> <div class="col-md-3">
 				<div class="grey-box-icon">
 					<div class="icon-box-top grey-box-icon-pos">
 						<img src="assets/images/humanities.png" alt="" />
 					</div><!--icon box top -->
 					<h4>Humanities and Applied Sciences(HAS)</h4>
-					<p> The department of Humanities and Applied Sciences is one of the key departments in the Institution as it grooms the students in their first year of study. The department comprises of faculty from four streams including Chemistry, Physics, Mathematics and English (communication skills).  The department comprises of highly qualified faculty members and technical staff and well equipped laboratories with advanced instruments. </p>
+					<p> The department of HAS is one of the key departments in the Institution as it grooms the students in their first year of study. The department comprises of faculty from four streams including Chemistry, Physics, Mathematics and communication skills.  The department comprises of highly qualified faculty members and technical staff and well equipped laboratories with advanced instruments. </p>
 						<p><a href="#departments"><em>Read More →</em></a></p>
 				</div><!--grey box -->
 			</div><!--/span3-->
@@ -431,8 +426,6 @@
  	<?php include("footer.php"); ?>	
  </footer>
 
-
-	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 	<script src="assets/js/jquery.cslider.js"></script>

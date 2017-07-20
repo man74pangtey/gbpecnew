@@ -8,7 +8,7 @@
         </h4>
         <div class="menu-course">
           <ul class="menu">
-            <li><a href="doc/anti-ragging/summary_of_the_Supreme_court_Judgment.pdf" target="_blank">
+            <li><a href="docs/anti-ragging/summary_of_the_Supreme_court_Judgment.pdf" target="_blank">
               Anti Ragging Notification-UGC
               </a>
             </li>
@@ -47,19 +47,15 @@
                 Guru Gobind Singh Indraprastha University
               </a>
             </li>
-            <li><a href="Recruitments.php">
+            <li><a href="placements.php">
                 Recruitments
-              </a>
-            </li>
-            <li><a href="Tenders.php">
-                Tenders
               </a>
             </li>
             <li><a href="Tenders.php">
                 Official Website
               </a>
             </li>
-            <li><a href="Tenders.php">
+            <li><a href="rti.php">
                 RTI
               </a>
             </li>
@@ -93,13 +89,13 @@
     </div>
   </div>
 </div>
-			<div class="social text-center">
+		<!-- 	<div class="social text-center">
 				<a href="#"><i class="fa fa-twitter"></i></a>
 				<a href="#"><i class="fa fa-facebook"></i></a>
 				<a href="#"><i class="fa fa-dribbble"></i></a>
 				<a href="#"><i class="fa fa-flickr"></i></a>
 				<a href="#"><i class="fa fa-github"></i></a>
-			</div>
+			</div> -->
 
 			<div class="clear"></div>
 			<!--CLEAR FLOATS-->
@@ -112,8 +108,8 @@
 						<div class="panel-body">
 							<p class="simplenav">
 								<a href="index.php">Home</a> | 
-								<a href="academics.php">About</a> |
-								<a href="admissions.php">Courses</a> |
+								<a href="academics.php">Academics</a> |
+								<a href="admissions.php">Admissions</a> |
 								<a href="activities.php">Activities</a> |
 								<a href="campus.php">Campus</a> |
 								<a href="alumini.php">Alumini</a>
@@ -126,7 +122,7 @@
 					<div class="col-md-6 panel">
 						<div class="panel-body">
 							<p class="text-right">
-								Copyright &copy; 2017. Template by webthemez <a href="http://webthemez.com/" rel="develop">Developed by mspangtey </a>
+								Copyright &copy; 2017 Developed by webteam, GBPEC </a>
 							</p>
 						</div>
 					</div>
