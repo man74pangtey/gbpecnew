@@ -18,7 +18,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/Dr_Anu_Saini_CSE.jpg' width='120' height='140px' alt='Dr. Anu Saini' />",
 		"designation": "<h6>Dr Anu Saini</h6></br>Assistant Professor",
-		"qualification": "PhD (JNU)<br>M.Tech(MDU Rohtak)<br> B.Tech(MDU Rohtak)",
+		"qualification": "Ph. D. (JNU)<br>M.Tech(MDU Rohtak)<br> B.Tech(MDU Rohtak)",
 		"specialization": "Web Services, D.B.M.S, Software Testing",
 		"email": "<a href='mailto:anuanu16@gmail.com' target='_blank'>anuanu16@gmail.com </a>",
 		"profile": "<a href='#'>See Profile</a>"
@@ -34,7 +34,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/Jyoti_Tripathi_CSE.jpg' width='120' height='140px' alt='Ms. Jyoti Tripathi' />",
 		"designation": "<h6>Ms. Jyoti Tripathi</h6></br>Assistant Professor",
-		"qualification": "M.Tech (Banasthali Vidyapeeth) <br>B.Tech (B R Ambedkar Univ.)",
+		"qualification": "M.Tech (Banasthali Vidyapeeth) <br>B.Tech (B R Ambedkar University)",
 		"specialization": "Natural Language Processing and Information Retrieval",
 		"email": "<a href='mailto:loginjyoti@gmail.com' target='_blank'>loginjyoti@gmail.com </a>",
 		"profile": "<a href='#'>See Profile</a>"
@@ -50,7 +50,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.jpg' width='120' height='140px' alt='Dr. Mamta Mittal' />",
 		"designation": "<h6>Dr. Mamta Mittal</h6></br>Assistant Professor",
-		"qualification": "Ph.D.(Thapar Univ)<br>M.Tech.(YMCA,MDU Univ)<br> B.Tech.(Kurukshetra Univ.)",
+		"qualification": "Ph.D.(Thapar University)<br>M.Tech.(MDU University)<br> B.Tech.(Kurukshetra University)",
 		"specialization": "Data Mining, DBMS, Big Data and Machine Learning",
 		"email": "<a href='mailto:mittalmamta@rediffmail.com' target='_blank'>mittalmamta@rediffmail.com </a>",
 		"profile": "<a href='assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.pdf'>See Profile</a>"
@@ -58,7 +58,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/Dr_Manisha_Manjul_CSE.jpg' width='120' height='140px' alt='Dr. Manisha Manjul' />",
 		"designation": "<h6>Dr. Manisha Manjul</h6></br>Assistant Professor",
-		"qualification": "PhD (GBU)<br>M.Tech.(NIT Jalandhar)<br> B.Tech.(KNIT Sultanpur)",
+		"qualification": "Ph. D. (Gautam Buddha University)<br>M.Tech.(NIT Jalandhar)<br> B.Tech.(KNIT Sultanpur)",
 		"specialization": "COMPUTER NETWORK",
 		"email": "<a href='mailto:bhavikamanisha@gmail.com' target='_blank'>bhavikamanisha@gmail.com </a>",
 		"profile": "<a href='#'>See Profile</a>"
@@ -66,7 +66,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/ManjeetPangtey_CSE.jpg' width='120' height='140px' alt='Mr. Manjeet Singh Pangtey' />",
 		"designation": "<h6>Mr. Manjeet Singh Pangtey</h6></br>Assistant Professor",
-		"qualification": "M.Tech.(IIT Bombay)<br> B.Tech.(G B Pant Univ)",
+		"qualification": "M.Tech.(IIT Bombay)<br> B.Tech.(G. B. Pant University)",
 		"specialization": "Web Engineering, Software Engineering",
 		"email": "<a href='mailto:man74pangtey@gmail.com' target='_blank'>man74pangtey@gmail.com </a>",
 		"profile": "<a href='assets/images/Faculty_Profile/CSE/Manjeet_Pangtey_CSE.pdf'>See Profile</a>"
@@ -74,7 +74,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.jpg' width='120' height='140px' alt='Ms. Sunita Tiwari' />",
 		"designation": "<h6>Ms. Sunita Tiwari</h6></br>Assistant Professor",
-		"qualification": "PhD (Pursuing from IIT Delhi)<br>M. Tech (IIT Delhi)<br>MBA(DAVV Indore) <br> B. E. (RGPV Bhopal)",
+		"qualification": "Ph. D. (Pursuing from IIT Delhi)<br>M. Tech. (IIT Delhi)<br>MBA(DAVV Indore) <br> B. E. (RGPV Bhopal)",
 		"specialization": "Recommender Systems, Location Based Services, Data Mining",
 		"email": "<a href='mailto:sutiwari@gmail.com' target='_blank'>sutiwari@gmail.com </a>",
 		"profile": "<a href='assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.pdf'>See Profile</a>"
@@ -82,7 +82,7 @@
 	{
 		"name": "<img src='assets/images/Faculty_Profile/CSE/sushil_kumar_cse.jpg' width='120' height='140px' alt='Mr.Sushil Kumar' />",
 		"designation": "<h6>Mr.Sushil Kumar</h6></br>Assistant Professor",
-		"qualification": "PhD (Pursuning from Thapar Univ.)<br>M.E. (Thapar Univ.)<br> B.Tech (UPTU)",
+		"qualification": "Ph. D. (Pursuning from Thapar University)<br>M.E. (Thapar University)<br> B.Tech (UPTU)",
 		"specialization": "Vehicular Adhoc Networks, Sensor Networks",
 		"email": "<a href='mailto:sushilyadav.thapar@gmail.com' target='_blank'>sushilyadav.thapar@gmail.com </a>",
 		"profile": "<a href='assets/images/Faculty_Profile/CSE/sushil_kumar_cse.pdf'>See Profile</a>"
