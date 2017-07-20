@@ -1,6 +1,6 @@
 [
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.jpg' width='120' height='140px' alt='Dr. Ajay Singholi' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.jpg' width='120' height='140px' alt='Dr. Ajay Singholi'/>",
 		"designation": "<h6>Dr. Ajay Kumar Singholi</h6></br>Associate Professor <br> HOD (MAE)",
 		"qualification": "Ph.D.",
 		"specialization": " Mechanical Engineering",
@@ -9,7 +9,7 @@
 	},
 
 		{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Arindam_Kumar_Chanda_MAE.jpg' width='120' height='140px' alt='Dr. Arindam Kumar Chanda' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Arindam_Kumar_Chanda_MAE.jpg' width='120' height='140px' alt='Dr. Arindam Kumar Chanda'/>",
 		"designation": "<h6>Dr. Arindam Kumar Chanda</h6></br>Associate Professor",
 		"qualification": "Ph.D.",
 		"specialization": "Mechanical Engineering",
@@ -17,7 +17,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Profile-Dr-Arindam-Kumar-Chanda.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.jpg' width='120' height='140px' alt='Mr. Anil Kumar' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.jpg' width='120' height='140px' alt='Mr. Anil Kumar'/>",
 		"designation": "<h6>Mr. Anil Kumar</h6></br>Assistant Professor",
 		"qualification": "M. Tech (GGSIPU)</br>B. Tech (Kurukshetra Univ)",
 		"specialization": "Manufacturing & Automation",
@@ -25,7 +25,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpeg' width='120' height='140px' alt='Dr. Anurag Dixit' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpeg' width='120' height='140px' alt='Dr. Anurag Dixit'/>",
 		"designation": "<h6>Dr. Anurag Dixit</h6></br>Assistant Professor",
 		"qualification": "PhD (GBU)</br>M. Tech (IIT Delhi)</br>B. Tech (Agra Univ)",
 		"specialization": "Finite Element Analysis of Textile Composites, Design Engg, Stress Analysis",
@@ -33,7 +33,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.jpg' width='120' height='140px' alt='Mr. Bhajneet Singh' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.jpg' width='120' height='140px' alt='Mr. Bhajneet Singh'/>",
 		"designation": "<h6>Mr. Bhajneet Singh</h6></br>Assistant Professor",
 		"qualification": "M. Tech (NIT Jalandhar)</br>B. Tech (PTU Jalandhar)",
 		"specialization": "Thermal Engineering",
@@ -41,7 +41,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Bhajneet_Singh_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.jpg' width='120' height='140px' alt='Mr. Dayanidhi Krishana Pathak' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.jpg' width='120' height='140px' alt='Mr. Dayanidhi Krishana Pathak'/>",
 		"designation": "<h6>Mr. Dayanidhi Krishana Pathak</h6></br>Assistant Professor",
 		"qualification": "M. Tech (MNNIT Allahbad)</br>B. Tech (UPTU Lucknow)",
 		"specialization": "Unconventional Machining Processes, Finite Element Analysis",
@@ -49,7 +49,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dayanidhi_Krishana_Pathak_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.jpg' width='120' height='140px' alt='Mr. Irwin Osmond Toppo' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.jpg' width='120' height='140px' alt='Mr. Irwin Osmond Toppo'/>",
 		"designation": "<h6>Mr. Irwin Osmond Toppo</h6></br>Assistant Professor",
 		"qualification": "M. E. (IISC Banglore)</br>B. Tech (MIT Muzaffarpur Bihar)",
 		"specialization": "Power Plant, Fluid Meachnics & Heat Transfer",
@@ -57,7 +57,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Irwin_Osmond_Toppo_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.jpg' width='120' height='140px' alt='Mr. Jayant Supale' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.jpg' width='120' height='140px' alt='Mr. Jayant Supale'/>",
 		"designation": "<h6>Mr. Jayant Supale</h6></br>Assistant Professor",
 		"qualification": "M. Tech (MNNIT Allahbad)</br>B. Tech (Nagpur Univ.)",
 		"specialization": "Manufacturing & Automation",
@@ -65,7 +65,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Jayant_Supale_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.jpg' width='120' height='140px' alt='Mr. Jitendra Kumar' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.jpg' width='120' height='140px' alt='Mr. Jitendra Kumar'/>",
 		"designation": "<h6>Mr. Jitendra Kumar</h6></br>Assistant Professor",
 		"qualification": "M. Tech (Delhi Technological University, Delhi)</br>B. Tech (GBPUAT Pantnagar)",
 		"specialization": "Thermodynamics and Heat Transfer",
@@ -73,16 +73,15 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Mukesh_Kumar_MAE.jpg' width='120' height='140px' alt='Mr. Mukesh Kumar' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Mukesh_Kumar_MAE.jpg' width='120' height='140px' alt='Mr. Mukesh Kumar'/>",
 		"designation": "<h6>Mr. Mukesh Kumar</h6></br>Assistant Professor",
-		"qualification": "M. Tech (MNNIT Allahbad) <br> B. Tech (BPUT Rourkela)	",
+		"qualification": "M. Tech (MNNIT Allahbad) <br> B. Tech (BPUT Rourkela)",
 		"specialization": "Design",
 		"email": "<a href='mailto:mk04314@gmail.com' target='_blank'>mk04314@gmail.com</a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Mukesh_Kumar_MAE.pdf'>See Profile</a>"
-	},
-	
+	},	
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.jpg' width='120' height='140px' alt='Dr. Rishu Sharma' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.jpg' width='120' height='140px' alt='Dr. Rishu Sharma'/>",
 		"designation": "<h6>Dr. Rishu Sharma</h6></br>Assistant Professor",
 		"qualification": "PhD (DU)<br>M. Tech (DCE, DElhi) <br> B. Tech (GGSIPU)",
 		"specialization": "Production and Industrial Engineering",
@@ -90,11 +89,11 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Vineet_Kumar_MAE.jpg' width='120' height='140px' alt='Dr. Vineet Kumar' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Vineet_Kumar_MAE.jpg' width='120' height='140px' alt='Dr. Vineet Kumar'/>",
 		"designation": "<h6>Dr. Vineet Kumar</h6></br>Assistant Professor",
 		"qualification": "PhD (IIT Roorkee) <br> M. Tech (GBPUAT Pantnagar )<br> B. Tech (GBPUAT Pantnagar)",
 		"specialization": "Fatigue, Fracture, Finite Element Analysis and Cryo-rolling",
 		"email": "<a href='mailto:vineetrose@gmail.com' target='_blank'>vineetrose@gmail.com</a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Vineet_Kumar_MAE.pdf'>See Profile</a>"
-	},
+	}
 ]
