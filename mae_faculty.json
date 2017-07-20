@@ -1,23 +1,16 @@
 [
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.jpg' width='120' height='140px' alt='Dr. Rishu Sharma' />",
-		"designation": "<h6>Dr. Rishu Sharma</h6></br>Assistant Professor<br> HOD (MAE)",
-		"qualification": "PhD (DU)<br>M. Tech (DCE, DElhi) <br> B. Tech (GGSIPU)",
-		"specialization": "Production and Industrial Engineering",
-		"email": "<a href='mailto:sharma.rishu@gmail.com' target='_blank'>sharma.rishu@gmail.com </a>",
-		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.pdf'>See Profile</a>"
-	},
-	{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.jpg' width='120' height='140px' alt='Dr. Ajay Singholi' />",
-		"designation": "<h6>Dr. Ajay Singholi</h6></br>Assistant Professor",
+		"designation": "<h6>Dr. Ajay Kumar Singholi</h6></br>Associate Professor <br> HOD (MAE)",
 		"qualification": "Ph.D.",
 		"specialization": " Mechanical Engineering",
 		"email": "<a href='mailto:ajay.igit@gmail.com' target='_blank'>ajay.igit@gmail.com </a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Ajay_Singholi_MAE.pdf'>See Profile</a>"
 	},
-	{
+
+		{
 		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Arindam_Kumar_Chanda_MAE.jpg' width='120' height='140px' alt='Dr. Arindam Kumar Chanda' />",
-		"designation": "<h6>Dr. Arindam Kumar Chanda</h6></br>Assistant Professor",
+		"designation": "<h6>Dr. Arindam Kumar Chanda</h6></br>Associate Professor",
 		"qualification": "Ph.D.",
 		"specialization": "Mechanical Engineering",
 		"email": "<a href='mailto:akcped@yahoo.com' target='_blank'>akcped@yahoo.com</a>",
@@ -32,7 +25,7 @@
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/ANIL_KUMAR_MAE.pdf'>See Profile</a>"
 	},
 	{
-		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpg' width='120' height='140px' alt='Dr. Anurag Dixit' />",
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Anurag_Dixit_MAE.jpeg' width='120' height='140px' alt='Dr. Anurag Dixit' />",
 		"designation": "<h6>Dr. Anurag Dixit</h6></br>Assistant Professor",
 		"qualification": "PhD (GBU)</br>M. Tech (IIT Delhi)</br>B. Tech (Agra Univ)",
 		"specialization": "Finite Element Analysis of Textile Composites, Design Engg, Stress Analysis",
@@ -78,6 +71,30 @@
 		"specialization": "Thermodynamics and Heat Transfer",
 		"email": "<a href='#' target='_blank'></a>",
 		"profile": "<a href='assets/images/Faculty_Profile/MAE/Jitendra_Kumar_MAE.pdf'>See Profile</a>"
-	}
+	},
+	{
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Mukesh_Kumar_MAE.jpg' width='120' height='140px' alt='Mr. Mukesh Kumar' />",
+		"designation": "<h6>Mr. Mukesh Kumar</h6></br>Assistant Professor",
+		"qualification": "M. Tech (MNNIT Allahbad) <br> B. Tech (BPUT Rourkela)	",
+		"specialization": "Design",
+		"email": "<a href='mailto:mk04314@gmail.com' target='_blank'>mk04314@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Mukesh_Kumar_MAE.pdf'>See Profile</a>"
+	},
+	
+	{
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.jpg' width='120' height='140px' alt='Dr. Rishu Sharma' />",
+		"designation": "<h6>Dr. Rishu Sharma</h6></br>Assistant Professor",
+		"qualification": "PhD (DU)<br>M. Tech (DCE, DElhi) <br> B. Tech (GGSIPU)",
+		"specialization": "Production and Industrial Engineering",
+		"email": "<a href='mailto:sharma.rishu@gmail.com' target='_blank'>sharma.rishu@gmail.com </a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Rishu_Sharma_MAE.pdf'>See Profile</a>"
+	},
+	{
+		"name": "<img src='assets/images/Faculty_Profile/MAE/Dr_Vineet_Kumar_MAE.jpg' width='120' height='140px' alt='Dr. Vineet Kumar' />",
+		"designation": "<h6>Dr. Vineet Kumar</h6></br>Assistant Professor",
+		"qualification": "PhD (IIT Roorkee) <br> M. Tech (GBPUAT Pantnagar )<br> B. Tech (GBPUAT Pantnagar)",
+		"specialization": "Fatigue, Fracture, Finite Element Analysis and Cryo-rolling",
+		"email": "<a href='mailto:vineetrose@gmail.com' target='_blank'>vineetrose@gmail.com</a>",
+		"profile": "<a href='assets/images/Faculty_Profile/MAE/Dr_Vineet_Kumar_MAE.pdf'>See Profile</a>"
+	},
 ]
-
