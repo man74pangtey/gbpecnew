@@ -117,14 +117,14 @@
                         <marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="2" direction="up" width="100%" height="120px" align="justify" style="color:black;margin:0 10px 0 0"> 
                             <ul>
                                 <?php
-                                    $f = fopen("latestupdates.csv", "r");
+                                    $f = fopen("NoticeAndUpdates.csv", "r");
                                     $flag=true;
                                     while (($line = fgetcsv($f)) !== false) {
                                        if ($flag == true) {
                                         $flag = false;
                                         continue;
                                         }
-                                        echo "<li><a href=".$line[2]."  >".$line[1]."</a></li>";
+                                        echo "<li><a href='docs/NoticeAndUpdates/".$line[2]."' target='_'  >".$line[1]."</a></li>";
                                         $count++;                                           
                                     }
                                     fclose($f);
