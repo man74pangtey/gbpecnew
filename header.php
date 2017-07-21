@@ -65,7 +65,7 @@ Edited by:
 					<!-- <li class="active"><a href="index.html">Home</a></li> -->
 					<!-- <li><a href="about.html">About</a></li> -->
 					<!-- <li><a href="courses.html">Academics</a></li> -->
-					<li><a href="alumini.php">Alumni</a></li>
+					<li><a href="alumni.php">Alumni</a></li>
 					<li><a href="placements.php">Placements</a></li>
 					<!-- <li><a href="videos.html">Videos</a></li> -->
 					<!-- <li class="dropdown">

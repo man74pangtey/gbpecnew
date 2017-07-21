@@ -112,7 +112,7 @@
 								<a href="admissions.php">Admissions</a> |
 								<a href="activities.php">Activities</a> |
 								<a href="campus.php">Campus</a> |
-								<a href="alumini.php">Alumini</a>
+								<a href="alumni.php">Alumni</a>
                 <a href="placements.php">Placements</a>
                 <a href="contact.php">Contact</a>
 							</p>
